@@ -1,0 +1,759 @@
+uuid,name,pub_date,exp_date,gwp_a1a3,gwp_a1,gwp_a2,gwp_a3,gwp_c1,gwp_c2,gwp_c3,gwp_c4,gwp_d,gross_density,recycled_content
+00bc4c4e-9474-49bd-a5c2-4fd584b41372,Cemento di Caravate,2021-01-01,2027-01-01,219.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,13.8,n/a,n/a
+00d8f5ef-30b0-49e6-adc2-ef5eb7ccad6c,Metal ceilings: structures NASCOSTA su 60x120,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.003024717107,0.280435973519,0.0,-1.620569543055,n/a,n/a
+02721c43-7b65-4212-a8f1-9312f4160ffd,"INFILL PANELS: Thermal break panel (U=0.26 W m2K) with concrete finish, th. cm 30, L= cm 800",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.122376629998,4.574998504833,4.102234657277,4.323710231418,-9.091815138391,n/a,n/a
+031240ca-fefb-49d6-851f-ac4735537ca6,Eurocinque Adriaroof L07-A04,2019-01-01,2026-01-01,64.5,n/a,n/a,n/a,,,,,,n/a,n/a
+033a1b56-1c12-4a5d-a03b-305f8c90d98d,Pannelli in solfato di calcio per pavimenti sopraelevati KFA,2018-01-01,2025-01-01,13.94,n/a,n/a,n/a,,,,,,n/a,n/a
+033c0772-245d-4b84-a56b-9d32ee9b133b,ACCIAI LAMINATI A CALDO: TONDO IN BARRE,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,1.0,-716.5,n/a,n/a
+0343edda-f25d-4c4b-8919-49a0a2b90dea,"CEMENTO POZZOLANICO TIPO IV/A (V) 42,5 R",2020-01-01,2026-01-01,685.0,n/a,n/a,n/a,,,,,,n/a,n/a
+0390e406-5d5d-499e-8caa-14f9d01d2ba0,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR DOUBLE EVO SEAL 340",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00148,0.0037,0.128,0.00626,-0.0997,n/a,n/a
+043c7269-9aa6-469f-83b0-8ab36084a100,Calcium sulphate panels for raised floor with various finishings: PG9AVV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.282761504576,0.0,0.702379726346,-0.006742295671,n/a,n/a
+04a79881-b05d-46eb-bd07-34798fccd9e8,Isopar Adriawall L06-L06,2019-01-01,2026-01-01,0.000153,n/a,n/a,n/a,,,,,,n/a,n/a
+04c93e07-5d97-4517-9971-ba3bec9b238f,CAST-IN ANCHOR CHANNEL SYSTEMS: HGP 54/33,2020-01-01,2026-01-01,22.3,n/a,n/a,n/a,,,0.0,0.0,-4.95,n/a,n/a
+04d5a657-f300-40ef-877a-187537d6dfc1,PLASTIC PIPING SYSTEMS FOR LIQUID FUELS AND FUEL VAPOURS TYPE SMARTFLEX AND SUPERSMARTFLEX,2019-01-01,2026-01-01,948.0,n/a,n/a,n/a,0.155,1.36,24.0,0.0,-55.4,n/a,n/a
+04eb578f-1edc-4f7d-ad84-d4a2c5b83782,"Portland, Blast Furnace and Pozzolanic cements: CEM III/A 32,5 N-LH",2022-01-01,2027-01-01,503.8,n/a,n/a,n/a,,,,,,n/a,n/a
+05ab489a-8be5-4fd4-a8ef-5ae6526497cb,Isopar elegant HP Adriawall HP FN: A05-A04,2019-01-01,2026-01-01,49.52,n/a,n/a,n/a,,,,,,n/a,n/a
+05acfe7f-9bef-4667-b62d-688f801a7b09,Premiscelati,2016-01-01,2022-01-01,268.0,n/a,n/a,n/a,,,,,,n/a,n/a
+05d07f1a-f38e-439a-ac76-aef4ffc67085,Ready-mixed concrete mixtures: Multibeton R40C4D31S4XC4/XC3/XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.655814,4.0131364,0.22549264,-8.7002369,n/a,n/a
+06114bcf-701f-4b13-93ea-77dcf34ce784,Porcelain stoneware and single firing white body ceramic tiles and slabs0039,2016-01-01,2023-01-01,10.5,n/a,n/a,n/a,,0.0389,0.0377,0.102,-0.199,n/a,n/a
+06d13dde-e57f-43d8-a179-0833a1ad1fd1,Hot rolled steel in bars,2024-01-01,2028-01-01,,n/a,n/a,n/a,5.845143304872,7.57361556623,0.160892321519,0.264992203813,36.556421860882,n/a,n/a
+06dbc1cf-5e76-4bc6-b2e5-ee114a11b49a,Acciai laminati a caldo in barre e rotoli per calcestruzzo armato,2021-01-01,2026-01-01,,n/a,n/a,n/a,38.2,24.4,1.93,0.732,473.0,n/a,n/a
+073460b5-315d-4480-af0f-e54b496204cd,Tropea S Block,2019-01-01,2026-01-01,,n/a,n/a,n/a,0.128,0.311,4.46,0.371,-5.71,n/a,n/a
+077cde9d-5252-4308-9174-b1143781d19c,KLIMA AIRPLUS di Kerakoll Spa,2015-01-01,2023-01-01,45.2,n/a,n/a,n/a,,0.0871,50.9,0.0,-5.96,n/a,n/a
+0799cc2e-eed2-4fe5-8d89-4d243ec15358,"Air, wind and water barrier membranes and Vapor control layers: BARRIER ALU NET SD1500",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0025,0.00624,0.0848,0.0157,-0.0588,n/a,n/a
+07ab1c07-ee4e-44c5-9c83-959fb0446bb4,Tegola portoghese tipo UNICOPPO e TE.SI,2016-01-01,2024-01-01,345.0,n/a,n/a,n/a,,,2.02,4.97,-240.0,n/a,n/a
+0804c2f4-3fd1-4121-a406-c90c984859ec,Isopar elegant HP Adriawall HP FN: A06-A06,2019-01-01,2026-01-01,55.49,n/a,n/a,n/a,,,,,,n/a,n/a
+086b8f89-58b0-4d97-8e8a-86af79b11fdc,AMPHIBIA 3000 GRIP 1.3,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.963,0.0,0.736,0.0,n/a,n/a
+0932a91b-75c3-4d13-a83a-b8566e108f59,Calcium sulphate panels for raised floor with various finishings: PG3A00,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.231904505126,0.0,0.576050913813,-0.006742295675,n/a,n/a
+0964e87d-4fad-42a6-94cf-d37290bb326a,Calcium sulphate panels for raised floor with various finishings: PG6AVH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.356638433638,0.0,0.885890063412,-0.006742295676,n/a,n/a
+09e5a3bd-df77-4bbf-b72d-0ed0fabecf54,Isopar elegant HP Adriawall HP FN: A08-A06,2019-01-01,2026-01-01,59.61,n/a,n/a,n/a,,,,,,n/a,n/a
+09f73241-67c7-461e-a0b6-a363504327a7,METRA SLIDING WINDOWS SYSTEMS: NC-S120STH EUROPA,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.737,1.28,4.13,0.366,-29.3,n/a,n/a
+0a24a383-c67f-4f91-9e03-d6e44e44fa0e,IT-FLEX C1,2019-01-01,2025-01-01,202.77,n/a,n/a,n/a,,,,,,n/a,n/a
+0a362486-b4d2-4aba-9841-5ece929e8329,Metal ceilings: structures DOCKING OPEN SPACE,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.009661668457,0.89577944128,0.0,-5.176485960831,n/a,n/a
+0a4c0798-691d-4cf7-aab0-60d8d0155b7e,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR EVO 300",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00374,0.00934,0.087,0.0235,-0.124,n/a,n/a
+0b18264c-993d-4a53-8e09-2eb44d178231,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR EVO 160",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00209,0.00522,0.0989,0.00953,-0.108,n/a,n/a
+0b26b42e-53e7-42d1-893f-7d5f02df083a,Metal ceilings: structures CLOUD,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.006049092186,0.560840236067,0.0,-3.240955836318,n/a,n/a
+0cb3999e-8fe3-41dd-893d-eae731867725,ECO-POR K100,2019-01-01,2025-01-01,294.0,n/a,n/a,n/a,,0.00305,1.78,0.0,-0.213,n/a,n/a
+0cc70dc0-e78e-49df-946b-b374dda0c546,Eurocinque Adriaroof A05-A04,2019-01-01,2026-01-01,36.2,n/a,n/a,n/a,,,,,,n/a,n/a
+0da69f35-a44c-49f0-a00a-4d6a3872fe5a,Pexal® + Pexal® Easy,2019-01-01,2027-01-01,,n/a,n/a,n/a,0.137,0.362,4.63,0.554,-2.49,n/a,n/a
+0db21434-283f-48e8-a52e-f3036a3e91f4,EUROBATEX® flat sheets or rolls with SELF-ADHESIVE backing,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.186310993433,0.0,4.887410693641,-0.727429362151,n/a,n/a
+0dc4e45e-e6b0-4d47-a599-ea71fc62d19c,Water-based paints: COPRETUTTO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+0dc6ff3c-c955-4ecb-8ec4-75b7b164c964,"Extreme section – PVC window 1,23m x 1,48m: Coloured PVC - Double Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.562329908,5.802675946,3.269414134,-13.28687484,n/a,n/a
+0dccd5d9-ecf0-4c9e-b861-09febac80570,Calcium sulphate panels for raised floor with various finishings: PG3AR0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.259997348618,0.0,0.645833552086,-0.006742295669,n/a,n/a
+0e17e6b0-eca5-40b3-82a7-7d45b7edea0d,CERAMICA SANITARIA,2017-01-01,2024-01-01,2210.0,n/a,n/a,n/a,,,,,,n/a,n/a
+0efbd17a-4240-433f-87f5-707d0ae85ba4,Pavimenti in legno Collezione Garbelotto SP13,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+0f38da7c-92e4-4999-b2e8-5e58459a8cf2,"CEM II B-LL 32,5 R - Cemento Portland al calcare EPD0097",2019-01-01,2026-01-01,601.0,n/a,n/a,n/a,,,,,,n/a,n/a
+0f3ae6eb-563f-471b-810a-a018cec5bc34,"POLYETHYLENE PIPING SYSTEM FOR WATER, GAS AND INDUSTRIAL APPLICATIONS TYPE “POLIETILENETUBI” AND ELOFIT",2018-01-01,2024-01-01,479.0,n/a,n/a,n/a,0.114,1.01,17.7,0.0,-26.7,n/a,n/a
+0f456530-e61e-492e-931a-91ee938b6172,TECNOPLAN 100N prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.310806329995,5.630351814996,3.167929548567,3.591812754826,-35.48923712661,n/a,n/a
+0f931378-9bcf-4639-b19e-ed372abc4b91,Greenstone industrial construction aggregate,2023-01-01,2026-01-01,,n/a,n/a,n/a,59.821000822299,3.960955596468,0.0,2.784307950055,0.0,n/a,n/a
+10485025-cd95-40c5-996c-adac1026d7ae,Rivestimento in Pietra Serena di Fiorenzuola con superficie sabbiata con bordi rifilati (spessore 2 cm),2017-01-01,2024-01-01,68.4,n/a,n/a,n/a,,,,,,n/a,n/a
+10b91fa0-ead9-46c1-a23a-ffd09d34dec8,Hostile Vehicle Mitigation Automatic Bollard: 275/K12-900A (A275-M50-900H),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.32,113.0,22.5,23.2,-2110.0,n/a,n/a
+10bee57d-189a-4beb-9f92-ea1a156ad426,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 5 honing and cut to size in thickness 3 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+10bf426c-e0aa-47c3-af7b-5c964e0ac610,"INFILL PANELS: Thermal break panel (U=0.26 Wm2K), with washed finish, th. cm 30, L=cm 1000",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.136542942821,4.632742822447,4.13653634266,7.886860639268,-15.482160853881,n/a,n/a
+111273e9-fef3-4195-8936-4307c704477e,IT-FLEX C1 sheet in roll,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.188010421782,0.0,4.931991013045,-0.734064571684,n/a,n/a
+1149fed7-d5f3-4737-84cf-2ff762b9ad3a,ROLLER SHUTTERS PVC: Roma,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,3.47e-09,-0.221,0.0191,-2.92,n/a,n/a
+118e28f7-55dd-4fd0-8aa5-2f9ba2832c83,"Air, wind and water barrier membranes and Vapor control layers: CLIMA CONTROL 80",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00112,0.00279,0.056,0.0062,-0.0871,n/a,n/a
+119e15fa-27c0-4ccf-ad65-7a35fc58098f,Calcium sulphate panels for raised floor with various finishings: PG5A0H,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.342101774439,0.0,0.849780989587,-0.006742295681,n/a,n/a
+12189175-f4b5-4c67-82c8-c4a319092de5,XYLOFON: HIGH-PERFORMANCE RESILIENT SOUNDPROOFING PROFILE (shore50),2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0832,0.203,5.77,0.33,-2.69,n/a,n/a
+131ecb28-0bcd-4c5d-8a9a-e2f18a819960,CERAMIC TILES: slabs 20+ mm ,2021-01-01,2026-01-01,48.5,n/a,n/a,n/a,0.0,0.761,0.405,0.0545,-1.21,n/a,n/a
+13682177-49e7-416a-8bcd-219ea213c652,Metal ceilings: open cells STD40,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.010047047483,1.856707348808,0.0,-16.139712005848,n/a,n/a
+140ab8ad-8846-4fb6-87d5-d43d8c1589ce,Metal ceilings: open cells JOLLY B15,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.00986748323,1.823523642999,0.0,-15.85125757851,n/a,n/a
+143f1625-a494-40fa-9ba4-746fbeaf8f25,Cemento di Caravate,2021-01-01,2027-01-01,189.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+149501f9-0247-4331-a706-a4058c22714f,NEWPLAN 70N prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.212384007877,5.207595043861,2.92204137807,0.312163664767,-22.373308783563,n/a,n/a
+14bf68bc-8714-45b4-b434-e84cb0d00256,Cemento di Caravate,2021-01-01,2027-01-01,261.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+14ccb4fa-4451-4356-948e-7a24e82f1f79,Cemento di Caravate,2021-01-01,2027-01-01,172.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+14dfd85a-9535-4cbe-a57e-f579335d1c8b,Isoparfire Adriawall Rock A06-A05,2019-01-01,2026-01-01,45.4,n/a,n/a,n/a,,,,,,n/a,n/a
+14e1df47-ceca-4b33-a3c3-b4d0784b1d1a,Polymer Bitumen Waterproofing Membranes: EXTRAGUM GREEN ENERGY,2023-01-01,2028-01-01,3.228263027964,n/a,n/a,n/a,0.0,0.035851693536,0.036205203965,0.0,3.300319925465,n/a,n/a
+14ead46c-1f0e-49f4-bc25-580b90f7a9ca,Lightweight panel 18cm (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002786676,4.22998455194,2.916505055932,2.492348002727,-11.500299121077,n/a,n/a
+14ed1de5-79a5-4828-ae85-6dcf554c707b,Calcium sulphate panels for raised floor with various finishings: PG3AVS,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.262000933701,0.0,0.650810462555,-0.006742295666,n/a,n/a
+150a7ec6-6bb7-4358-8b3d-c9dd2853caa4,SUNSHADES: FRANGISOLE C80,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,1.32e-08,0.000723,0.0191,-0.924,n/a,n/a
+15897c64-09b7-4363-80b6-99a434c62426,Calcium sulphate panels for raised floor with various finishings: PG6AVV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.282761504576,0.0,0.702379726346,-0.006742295671,n/a,n/a
+15e5e949-16c5-4237-8b13-38973306e5df,Self-locking pavers for external flooring to the BIG series,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,1.85,0.0,0.65,0.0,n/a,n/a
+15fa22c3-e608-4dfd-bee3-9e8351c0301d,"CEM IV A(P) 42,5 R - Cemento pozzolanico EPD0098",2019-01-01,2026-01-01,768.0,n/a,n/a,n/a,,,,,,n/a,n/a
+1619ec00-aac1-4b0f-a135-2607e88f3d2c,"EUROBATEX® pipe, 2 meters version WITH ADHESIVE",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.259118073837,0.0,6.797325406891,-1.011696041156,n/a,n/a
+1635e650-a70b-4208-b319-60d3c271b725,"Portland, Blast Furnace and Pozzolanic cements: CEM II/A-LL 42,5 R",2022-01-01,2027-01-01,787.0,n/a,n/a,n/a,,,,,,n/a,n/a
+16fe5e61-5f17-4468-9d95-31d0457b4600,Prefabricated concrete panels: 04 Pannelli a TT PS GR sp 35,2023-01-01,2028-01-01,,n/a,n/a,n/a,34.670428140252,76.932905800415,4.250246834966,0.285033191578,-8.204786834017,n/a,n/a
+17e01335-9ec4-4395-8b42-79ef32bf138b,Panel KlimaWall® 25 REI 120 Plus (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002778967,6.994946686247,4.383425937333,2.543986345086,-12.531976775068,n/a,n/a
+18885e77-1397-4a3e-a88a-101fe71bf7ee,Water-based paints: DECORQUARZ BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+18d9e652-a0d0-49a8-8834-e23b9715a87e,ROLLER SHUTTERS ALUMINIUM: ASD55 Polla/Polesine,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,2.46e-08,-0.0242,0.32,-0.228,n/a,n/a
+19fbc143-df24-438e-bdc1-535ba4d19af8,GRES PORCELLANATO LAMINATO - Fiorano Modenese,2017-01-01,2023-01-01,10.4,n/a,n/a,n/a,,0.0255,0.0247,0.0666,-0.205,n/a,n/a
+1a21a089-13a7-4e02-b819-d2f6b26dafe1,Cemento di Caravate,2021-01-01,2027-01-01,275.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+1aade168-77e9-4dce-81d2-f5ba928d01ac,"Aliant 4 BC 28,60m Klima Plus",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,448.930267353145,422.654491854471,279.926263738375,-1069.183806547368,n/a,n/a
+1aedd585-8de2-4219-a5d4-69f10510253b,FLAGON® PVC: PVC SV/SA-300,2017-01-01,2024-01-01,,n/a,n/a,n/a,,0.0242,,0.00418,,n/a,n/a
+1b1adbc0-51a5-4899-ae74-741ff79821d5,Metal ceilings: structures SISTEMI M/Q/BANDRASTER,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,-1.99514695557,1.239934647489,0.0,-7.165273056391,n/a,n/a
+1bb44d2d-da75-451a-b3ae-0bb8f3bccdff,ACCIAI PER L’EDILIZIA: RETE ELETTROSALDATA,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,0.9,-716.5,n/a,n/a
+1c074131-6d76-4f4d-8652-9fab0155781c,Isopar Adriawall A04-A04,2019-01-01,2026-01-01,0.11,n/a,n/a,n/a,,,,,,n/a,n/a
+1c07b578-eed2-4aee-8fec-bfb95f4f2a0c,Masselli autobloccanti per pavimentazione esterne serie Design 0106,2018-01-01,2025-01-01,137.0,n/a,n/a,n/a,,,,,,n/a,n/a
+1cbfe9c1-8bb9-44d3-80c1-81bf5af6cd59,"CEM II/B-LL 32,5 R - Cemento Portland al calcare ",2018-01-01,2024-01-01,707.53,n/a,n/a,n/a,,,,,,n/a,n/a
+1d675dad-76fc-421d-bc55-ccdd3e47a91b,Masselli autobloccanti per pavimentazione esterne serie Filtranti 0106,2018-01-01,2025-01-01,142.0,n/a,n/a,n/a,,,,,,n/a,n/a
+1d8f36aa-c86c-48ba-90ba-795ed8cbd876,CERAMIC TILES: slabs 5+ mm,2021-01-01,2026-01-01,19.8,n/a,n/a,n/a,0.0,0.278,0.148,0.0199,-0.292,n/a,n/a
+1dc2d7be-44fd-4cc2-ac24-e191015fff95,Metal ceilings: open cells JOLLY H30,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.007426264459,1.372383261651,0.0,-11.929650959216,n/a,n/a
+1e3c6b59-c57c-46b2-bee3-11c4cb872dca,Cemento di Caravate,2021-01-01,2027-01-01,294.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+1ef9b924-9f14-4b99-a12c-4eeaa18789ee,"Shower enclosures: Opera PH+FH, 120x80 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.530626450894,0.0,0.003969526269,-1.982142065866,n/a,n/a
+1f1f986a-aaff-434d-a03a-86bfbe04c62c,ECO-DUR ZETA,2019-01-01,2025-01-01,346.0,n/a,n/a,n/a,,,2.63,0.0,-0.325,n/a,n/a
+1fba1daa-5369-4664-85a4-de300caa7d57,"INFILL PANELS: Lightened panel (U=0.9 Wm2K) with concrete finish, th. cm 30, L=cm 1250",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.137352445659,4.636042477098,3.915819411932,3.642275865855,-17.307760607066,n/a,n/a
+1fd20dc8-2df1-4aa7-adc2-1ecf3f6b1f2b,Calcium sulphate panels for raised floor with various finishings: PG6AB0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.234760682184,0.0,0.583145658524,-0.006742295683,n/a,n/a
+1feeab63-7b01-4ee5-9efb-5b8b0cb49c67,ANTA TAMBURATA PER PORTE DA INTERNO IMPIALLACCIATA 900x2400 mm,2017-01-01,2024-01-01,92.6,n/a,n/a,n/a,,,,,,n/a,n/a
+20676418-6ea2-414b-b753-178544ed9181,METRA WINDOWS SYSTEMS: NC90HES HL,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.871,1.51,9.76,0.38,-35.9,n/a,n/a
+2085109e-d3c4-4235-9f0d-3a56b3eaf73c,IT-FLEX C1 AD2 pre-cut adhesive tube,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.21139991993,0.0,5.545556969014,-0.849181537979,n/a,n/a
+217b3e51-0464-497e-8995-381a941c2a3f,"CEM IV A(P) 42,5 N-SR - Cemento pozzolanico resistente ai solfati EPD0098",2019-01-01,2026-01-01,695.0,n/a,n/a,n/a,,,,,,n/a,n/a
+21dcbbae-ef0a-4450-bfd6-b869f8305b84,PE-RT/AL/HDPE PIPING SYSTEMS FOR HOT AND COLD WATER IN THE BUILDING TYPE MULTINUPI,2019-01-01,2026-01-01,34.7,n/a,n/a,n/a,0.105,0.202,2.32,0.274,-1.81,n/a,n/a
+22be0dd1-657d-4ff6-9ff0-ca4e2e769f5a,PROFILATI NERI,2020-01-01,2026-01-01,1032.31,n/a,n/a,n/a,,,,,,n/a,n/a
+234f7c67-0124-45cf-b5c4-eebbb1c2df46,Panel KlimaWall® 25 Max (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002784986,5.043849228044,4.035707257589,4.569989383663,-12.113297487445,n/a,n/a
+235bebe5-68f7-4fe5-96f6-cd8a2e82ba65,Metal ceilings: structures DOGHE,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.001691495273,0.156826607909,0.0,-0.906261850532,n/a,n/a
+2369daf3-28f0-48bc-bb88-f0c4495092d8,NEWPLAN 70R prefinished roof element (transmittance U=0.20 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.248173941689,5.361324786853,3.009943432165,1.351939784628,-23.475505673077,n/a,n/a
+23a2fe08-c8c3-4f66-b128-d23aac3ac3df,"CEM II/A-LL 42,5 R - Cemento Portland al calcare",2019-01-01,2026-01-01,788.0,n/a,n/a,n/a,,,,,,n/a,n/a
+2445f77b-98f1-4cf0-8477-ba218c11bbd1,STRETCHED COIL MANUFACTURED IN GERLAFINGEN,2016-01-01,2022-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+24c6c14c-932e-47ed-a726-0559951cccac,Reinforced concrete road safety barriers New Jersey profile: NJM66A600-W2,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,91.16,29.91,0.81,-217.61,n/a,n/a
+253f7a7b-7c73-4e4a-aa5b-2badcf07eccb,"CEM I 52,5 R - Cemento Portland EPD0098",2019-01-01,2026-01-01,951.0,n/a,n/a,n/a,,,,,,n/a,n/a
+256dec88-28c8-4b58-9df4-0a1597bd8962,FLAGON® TPO: EP/PV,2017-01-01,2024-01-01,,n/a,n/a,n/a,,0.0242,0.0306,,-0.0289,n/a,n/a
+25810517-cfab-4ff8-beb1-5382b7f3ce5a,Eurocinque Adriaroof L06-A04,2019-01-01,2026-01-01,0.0562,n/a,n/a,n/a,,,,,,n/a,n/a
+25b067ef-237c-4fae-8c51-3871f358a592,PRINT HPL (High Pressure Laminate) Thin,2019-01-01,2024-01-01,4.48,n/a,n/a,n/a,,,,,,n/a,n/a
+25ed024a-a7b8-42c0-ad69-8064d7f63aa6,"CEMENTO PORTLAND COMPOSITO TIPO II/A-LL 42,5 R",2020-01-01,2026-01-01,781.0,n/a,n/a,n/a,,,,,,n/a,n/a
+25f3dc4f-cf8b-43d9-bbd0-b57f75e4e63f,Eurocinque HP Adriaroof HP A06-A05,2019-01-01,2026-01-01,45.7,n/a,n/a,n/a,,,,,,n/a,n/a
+262b0d12-db01-4063-bf1d-cfa451c98928,Calcium sulphate panels for raised floor with various finishings: PG5AMV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+265609e0-c9d2-4291-866f-9eb4dbc11d0b,PILASTRI E TRAVI: Travi sede di Bastia Umbra,2020-01-01,2027-01-01,723.0,n/a,n/a,n/a,1.2,7.81,15.6,2.84,-19.6,n/a,n/a
+2658a5cd-c32f-47a3-af8a-e9e2a10b65ac,Polymer Bitumen Waterproofing Membranes: GUMMIVAL ARDESIA 4 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.033757741767,0.034090605089,0.0,-0.147402145721,n/a,n/a
+2681d35b-1115-45ed-ab29-f0f0fb4f77f6,Materiali inerti naturali: sabbia essiccata in big-bag,2020-01-01,2026-01-01,28.9,n/a,n/a,n/a,,,,,,n/a,n/a
+26ba5bd9-c3be-4be5-8f5f-4c75dcbd0cf0,Polyisocyanurate Sandwich Panels (PIR) with grooved aluminium coating: UNIKO.22 AL thickness 100 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.014352497314,1.918703756539,0.0,0.037653766506,0.0,n/a,n/a
+270fca61-b7b9-476f-a053-d3dbec5ac38f,"CEMENTI IN SACCO E/O SFUSI: CEM IV/A (V) 32,5 N-LH/SR",2019-01-01,2026-01-01,562.0,n/a,n/a,n/a,,,,,,n/a,n/a
+2714e5fe-a17d-4e41-adda-44dd97db1010,XYLOFON: HIGH-PERFORMANCE RESILIENT SOUNDPROOFING PROFILE (shore35),2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0832,0.203,5.77,0.33,-2.69,n/a,n/a
+278145fc-531f-4cfa-b2b9-5f87efa72258,Calcium sulphate panels for raised floor with various finishings: PG5AVH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.356638433638,0.0,0.885890063412,-0.006742295676,n/a,n/a
+28b58b42-b332-498b-bac9-7813d7edf2b7,"Portland, Blast Furnace and Pozzolanic cements: CEM I 52,5 R-SR 5",2022-01-01,2027-01-01,891.6,n/a,n/a,n/a,,,,,,n/a,n/a
+292bd6a0-a60d-49e6-b63c-d8b8912579ec,Masselli autobloccanti per pavimentazione esterne serie Filtranti 0105,2018-01-01,2025-01-01,124.0,n/a,n/a,n/a,,,,,,n/a,n/a
+2974c5e4-a9a4-42fd-a297-14bfccce152b,Aluminium profiles for doors and windows – series: MX166  MX166.104,2021-01-01,2026-01-01,7.1435,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9234,n/a,n/a
+29b1ad73-92b9-48f3-8e88-71aaeac2b3e6,Pexal® + Bravopress®,2019-01-01,2026-01-01,,n/a,n/a,n/a,0.13,0.319,3.96,0.46,-3.34,n/a,n/a
+2b41dd95-e828-4308-be15-a34029b065f2,PRINT HPL (High Pressure Laminate) Compact,2019-01-01,2024-01-01,12.4,n/a,n/a,n/a,,,,,,n/a,n/a
+2b78629c-0d73-44b4-8b16-82a63c8129f6,IT-FLEX C1 tube,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.213009904512,0.0,5.587790954815,-0.855648755108,n/a,n/a
+2badd039-d33f-4926-bd80-9eec5ed620a1,EUROBATEX HF,2018-01-01,2026-01-01,315.76,n/a,n/a,n/a,,,,,,n/a,n/a
+2bc8d95d-4295-40a4-b1b5-8f8644a54f9f,Hydraulic binders: FB 2000,2022-01-01,2027-01-01,886.2,n/a,n/a,n/a,,,,,,n/a,n/a
+2bcba4f7-8dca-4ccb-916c-8a0f02f35b13,Self-locking pavers for external flooring to the RI-MADE series,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.855,0.0,0.301,0.0,n/a,n/a
+2be12d1b-f84d-4cc2-904a-29b547d3d3a8,PERSIANA METRA SHUTTER,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.315,0.545,1.65,0.0138,-35.8,n/a,n/a
+2d1e65be-61f7-4b61-86aa-e277478c60f9,CALINTO,2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+2d329b6a-e645-4cae-94fb-95388d2a8f9a,CAST-IN ANCHOR CHANNEL SYSTEMS: HGP 40/223,2020-01-01,2026-01-01,6.99,n/a,n/a,n/a,,,0.0,0.0,-1.91,n/a,n/a
+2d9e2765-6cd7-4d79-8792-1d56bd712a24,PANNELLI PREFABBRICATI: pannello 30 Aprilia,2020-01-01,2027-01-01,124.0,n/a,n/a,n/a,0.261,1.4,2.61,1.15,-9.36,n/a,n/a
+2dd50007-976e-4d4a-8e00-da48074844bc,"INFILL PANELS: Thermal break panel (U=0.20 Wm2K), with concrete finish, th. cm 34, L=cm 1400",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.128852658156,4.60139589974,4.143942581206,4.402596263807,-12.204998893953,n/a,n/a
+2de55445-2d1d-4037-baa2-110f132c3d9e,CERAMIC TILES: slabs 12+ mm,2021-01-01,2026-01-01,29.9,n/a,n/a,n/a,0.0,0.453,0.241,0.0325,-0.695,n/a,n/a
+2e3560d7-d3e2-447a-9952-156e473c5dff,Hemp and lime Biocomposite building products: Bio Beton Pronto,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.214,0.409,0.0,-3.83,0.0,n/a,n/a
+2e6584e9-d3d9-40e2-937f-98bbb4ec0913,TECNOPLAN 100R prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.373438714364,5.899378864177,3.312309211998,0.877646709911,-36.413137218332,n/a,n/a
+2ea19053-20be-474d-b377-f7307e3fa5dc,Eurofire Adriaroof Rock A08-A06,2021-01-01,2026-01-01,49.6,n/a,n/a,n/a,,,,,,n/a,n/a
+2ea7fb49-ed01-44ec-93fd-b7de920f4a7e,NEWPLAN 60N prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.060276789177,4.554243636144,2.559418407984,1.159983235281,-20.612004410485,n/a,n/a
+2ed07117-b945-4186-b74e-367e38415d19,Linear and special prefabricated concrete elements: 20 Tegolo alare VM H77,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.43728762321,21.866813809251,35.080958243467,1.747072117528,-68.108525958726,n/a,n/a
+2f6141b1-b2e3-46e4-82f8-c3fcfc03b771,Isopar HP Adriawall HP A04-A04,2019-01-01,2026-01-01,0.11,n/a,n/a,n/a,,,,,,n/a,n/a
+2f9905dc-e5f5-4f32-8b6b-ed2559437b49,METRA WINDOWS SYSTEMS: NC65HES SLIM,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.827,1.43,4.42,0.38,-31.0,n/a,n/a
+2fb44ff9-8a2d-4fad-87fa-c70b099b39c4,3x3m Wood Wall / lateral single glass,2023-01-01,2028-01-01,,n/a,n/a,n/a,14.987910802085,45.007804163991,31.431501832438,10.214321700777,-16.161448354619,n/a,n/a
+301e9a6e-c28e-4739-b995-07ac933d56b0,SUPERCEL® Building Insulation: Supercel Vitrum,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.0126,0.0,0.0406,0.0,n/a,n/a
+30230e86-30cf-443b-a58a-2452eb94798c,"Prestigio section – PVC window 1,23m x 1,48m: PVC Aluminium sheet - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.584515907,5.567373036,3.044297133,-28.49803133,n/a,n/a
+302b6976-aa95-4541-a239-0862f72b9f8f,3x3m Wood Wall / single glass,2023-01-01,2028-01-01,,n/a,n/a,n/a,14.987910820851,44.961321334753,30.900863969924,10.203992870165,-10.943671462016,n/a,n/a
+30962b3d-e228-4a74-84c3-2c56865f5afc,Materiali inerti naturali: ghiaia in big-bag,2020-01-01,2026-01-01,10.2,n/a,n/a,n/a,,,,,,n/a,n/a
+3117da4d-2196-4387-8b70-dc48f2f1f585,"CEM II A-LL 42,5 R - Cemento Portland al calcare EPD0149",2019-01-01,2026-01-01,784.0,n/a,n/a,n/a,,,,,,n/a,n/a
+315fdc4f-f953-4741-8940-0d4e441bb596,"INFILL PANELS: Lightened panel (U=1.1 Wm2K) with washed finish, th. cm 20, L=cm 900",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.902596425599,3.679136913878,2.872992172004,2.167189851246,-11.416125357847,n/a,n/a
+318fd43f-24bc-4346-89d1-ae49553e90d0,Isopar Adriawall A05-A04,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+328b8c37-72e0-4732-97e5-ed64dc9d57a3,"Shaped, cutted and welded steel FOR REINFORCED CONCRETE (Sedegliano)",2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838901249061,18.220395855378,2.362400583744,0.278430796634,153.624275388593,n/a,n/a
+32a339ab-465e-445f-922a-81a274573bfe,Hostile Vehicle Mitigation Automatic Bollard: 275/K12EMB-900A (A275-M50-900E),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.43,122.0,24.5,3.48,-2290.0,n/a,n/a
+32bd983c-c634-4751-babf-bad456572b33,Ready-mixed concrete mixtures: Multibeton R40C4D31S5XC4/XC3/XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.59203,3.9797023,0.22297098,-8.6483109,n/a,n/a
+32d37abd-00de-496d-a172-3801d80f8d1e,ROLLER SHUTTERS ALUMINIUM: Arialuce HD,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,7.93e-08,-0.0243,0.306,-0.313,n/a,n/a
+341aa73a-3f3b-4de7-8a28-a23ea7e5e42e,TECNOPLAN 85R prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.297385104773,5.5727031616,3.134345348621,3.41144734566,-35.599436197727,n/a,n/a
+34664218-b150-42dc-b5ec-0a8e10e37a89,Isoparfire Adriawall Rock A05-A06,2019-01-01,2026-01-01,42.1,n/a,n/a,n/a,,,,,,n/a,n/a
+356f1a6e-2674-4155-91fc-d881c5625acd,BasalTop® 440SM,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.89838598989,2.875336234583,14.297720405402,12.67826909067,-15.798575405507,n/a,n/a
+35772610-7423-4c3c-bfaf-886a95f107df,"Prefabricated concrete panels: 05 Pannelli ""EL"" al sp 20",2023-01-01,2028-01-01,,n/a,n/a,n/a,34.671797055382,80.282556066335,3.902104053114,0.236523184519,-7.540008219757,n/a,n/a
+35a4476d-21b7-4eb2-a26a-c3a62db12016,Self-locking pavers for external flooring to the PREMIUM series,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,1.23,0.0,0.433,0.0,n/a,n/a
+35c5f24a-b935-4441-add2-cef5e1ebf1ac,Ceramic Tiles - ENERGIEKER,2020-01-01,2026-01-01,9.3,n/a,n/a,n/a,0.0,0.0471,0.0453,0.105,-0.224,n/a,n/a
+35da44a1-07ec-46ab-b1e8-66b9eb94f5b1,Calcium sulphate panels for raised floor with various finishings: PG4AR0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.259997348618,0.0,0.645833552086,-0.006742295669,n/a,n/a
+361a93f1-973b-4f43-9387-789da4e28b85,Conglomerati bituminosi: Tappeto Hard,2020-01-01,2027-01-01,50.6,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+368cdf5a-56b8-490a-b295-da8793733098,Pannelli in solfato di calcio per pavimenti sopraelevati KFF,2018-01-01,2025-01-01,16.04,n/a,n/a,n/a,,,,,,n/a,n/a
+36ab2e67-4716-4ac0-8760-ed8a344218ff,Materiali inerti naturali: sabbia umida in sacchetti,2020-01-01,2026-01-01,20.9,n/a,n/a,n/a,,,,,,n/a,n/a
+36b5da2f-5ea4-4a49-85cb-82011eb4da6f,"Shower enclosures: Kuadra H, 120 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.524288428922,0.0,0.054916173218,-1.40220395521,n/a,n/a
+37226462-d582-4aa3-a252-12ac208f0cca,"In Alpha section – PVC window 1,23m x 1,48m: PVC aluminium Sheet - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.653337414,5.459045794,2.788014736,-26.80191361,n/a,n/a
+37a63100-5e23-4549-87dd-1fae68f1345c,VERNICI IDROLUX,2017-01-01,2024-01-01,8.67,n/a,n/a,n/a,,,,,,n/a,n/a
+37e6a8d2-a340-41e1-803f-76c82cefe791,"In Alpha section – PVC window 1,23m x 1,48m: White PVC - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.526742488,5.078434725,2.781138534,-11.37014501,n/a,n/a
+37e7c654-e127-4988-bfdc-1e76bf093453,Isopar Adriawall L06-A04,2019-01-01,2026-01-01,0.0562,n/a,n/a,n/a,,,,,,n/a,n/a
+38234086-33de-481e-b3a5-84a094ab2d48,Calcium sulphate panels for raised floor with various finishings: PG6AVL,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.284381425663,0.0,0.706403611406,-0.006742295668,n/a,n/a
+38ee1df0-f2f8-4c48-ad78-b7ff61587de4,Cemento di Caravate,2020-01-01,2026-01-01,646.0,n/a,n/a,n/a,,,,,,n/a,n/a
+3908cc72-8e6b-4bb5-9580-439782dd3c07,TECNOPLAN 85N prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.216857753443,5.226811241225,2.940183318067,0.833456891926,-30.906555721144,n/a,n/a
+395f8427-5624-4249-8764-1a4b6d60eebb,TECNOPLAN 120R prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.695548119687,7.282946545677,4.095544588865,8.522438266644,-69.493479313437,n/a,n/a
+39b7a294-ddc3-4c68-847f-18892248b3a0,Sanitary ceramic products: washbasins and shower trays (in FFC),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,4.52,6.91,1.58,-4.75,n/a,n/a
+39d3658e-ff9e-4a76-9765-6a9d8caf3ff9,SUNSHADES: FRANGISOLE Z90,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,1.32e-08,0.000723,0.0191,-0.924,n/a,n/a
+39d3fe05-ddb6-48a3-9ebb-ea64630e06bb,Calcium sulphate panels for raised floor with various finishings: PG6AVG,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.283741982793,0.0,0.704815235725,-0.006742295668,n/a,n/a
+3afc9396-9f90-4e96-8fd2-7d06e6cccccb,"Shower enclosures: Kuadra 2.0 G+F, 90x90 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.40170815624,0.0,0.260245318381,-2.705814801081,n/a,n/a
+3ba3f06c-77ed-4167-b1dd-f8da591913d4,Water-based paints: DECORA E RINNOVA BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+3c3293fd-5676-4325-b72e-c8574bc2441b,"DryCrystal RCK37 XC4 S4 D15 CEM IV 32,5 N",2018-01-01,2025-01-01,288.0,n/a,n/a,n/a,,,,,,n/a,n/a
+3c3c1e4b-2562-4840-b829-cd1e19c52824,Calcium sulphate panels for raised floor with various finishings: PG3AVG,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.283741982793,0.0,0.704815235725,-0.006742295668,n/a,n/a
+3c5bc379-52c4-4c33-92c8-a05ab0762835,Metal ceilings: steel panels and systems,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.023726081449,2.199758360241,2.4018495e-05,-12.403720304858,n/a,n/a
+3ccc3d8a-3cc2-45f8-864c-2a3582df9b7d,RÖFIX EPS-F 031 RELAX,2019-01-01,2025-01-01,208.0,n/a,n/a,n/a,,0.0027,1.58,0.0,-0.196,n/a,n/a
+3cde0a22-8b22-47b2-a477-8887af345bee,Pannelli in solfato di calcio per pavimenti sopraelevati KAA,2018-01-01,2025-01-01,10.88,n/a,n/a,n/a,,,,,,n/a,n/a
+3cfe469a-9d25-4123-9f9e-190cf4f76546,LAVABI BIANCHI ,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.00334,0.004,0.0,-0.00672,n/a,n/a
+3d628c82-3a8f-49e3-bee7-ef31957f2545,Isopar elegant Adriawall FN: A08-A06,2019-01-01,2026-01-01,57.91,n/a,n/a,n/a,,,,,,n/a,n/a
+3e0d5583-d8bb-40b6-9422-b803314525c7,Aluminium profiles for doors and windows – series: CX700AS  WX71.44,2021-01-01,2026-01-01,6.7864,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9676,n/a,n/a
+3e45e91d-1a83-4b6e-89dd-740e76de6641,Pannelli in solfato di calcio per pavimenti sopraelevati K00,2018-01-01,2025-01-01,13.94,n/a,n/a,n/a,,,,,,n/a,n/a
+3ef110f5-f1ef-4f46-9589-5029279af45b,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR EVO 220",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00292,0.0073,0.114,0.0149,-0.128,n/a,n/a
+3f89ae7a-f434-4909-b912-bfd03d8fa936,Pavimenti in legno Sistema Clip Up SP14,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+4022572b-8946-4ab9-a6af-439049da2f90,Isopar Adriawall A06-A05,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+4082229e-d224-4ae8-86a4-54ee9232ded4,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR EVO SEAL 200",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00267,0.00666,0.204,0.0118,-0.158,n/a,n/a
+412ddb81-8ce3-46cd-b80d-424d7ef5668b,"Polymer Bitumen Waterproofing Membranes: GUMMIVAL ARDESIA 4,5 PL CLASSIC",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.038013405385,0.038388231061,0.0,-0.166389879428,n/a,n/a
+41511d5d-6cb5-456a-b7e9-c835df986118,Calcium sulphate panels for raised floor with various finishings: PG3A0H,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.342101774439,0.0,0.849780989587,-0.006742295681,n/a,n/a
+41a44129-5f2b-4152-8191-6df0455a8a74,Pannelli in solfato di calcio per pavimenti sopraelevati KFP,2018-01-01,2025-01-01,14.24,n/a,n/a,n/a,,,,,,n/a,n/a
+41c4194f-479d-42bb-b70b-d90549c6101a,MEDIUM GREY CEMENT - Italy,2022-01-01,2027-01-01,728.5,n/a,n/a,n/a,,,,,,n/a,n/a
+41cb8a49-c4bd-47f2-8ded-f79d08232949,Reinforced concrete road safety barriers New Jersey profile: NJM666A600-ABESCA,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,90.91,29.83,0.8,-205.71,n/a,n/a
+41d2e335-73a7-431d-b3ec-7d1636d3ff7f,IT-FLEX C1 AD2 OG pre-cut tube with rubber foam Overlap,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.211847137869,0.0,5.557288631736,-0.850977987182,n/a,n/a
+42053a97-e61d-443b-85e2-77621e76f01d,Repair mortars: FIBRO HFR,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,6.91,0.0,5.38,0.0,n/a,n/a
+420d8054-ff28-4435-9e4b-68c873bbf466,GRANELLA®,2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+437ded22-f724-40d8-bd9c-a76bd5ff3b07,Tegola marsigliese rossa in laterizio,2017-01-01,2024-01-01,107.0,n/a,n/a,n/a,,,4.97,28.2,-74.5,n/a,n/a
+43c99041-3456-4b25-b050-154284bb32d4,Polymer Bitumen Waterproofing Membranes: ARDESIA 4 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.033762699822,0.034095612032,0.0,-0.148560945402,n/a,n/a
+440f0a9b-97e6-4ae8-b6f7-cdd154a816fc,"Aliant 1 BC 17,58m Klima Max",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,215.049866306833,229.989385931946,156.506718182774,-516.382794848255,n/a,n/a
+44179626-0e03-4d52-bd3e-2f3bc4f9ee9f,SUPERCEL® Building Insulation: Supercel Alumen,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.0126,0.0,0.0406,0.0,n/a,n/a
+441b1506-2e23-4b18-9351-e5d7e5ae5c5a,Rivestimento in Pietra Serena di Fiorenzuola con superficie sabbiata con bordi rifilati (spessore 6 cm),2017-01-01,2024-01-01,62.4,n/a,n/a,n/a,,,,,,n/a,n/a
+447ed49a-7680-496c-a0d7-37716ab28541,ELECTROWELDED MESH,2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838900796159,17.824300235766,2.362400572083,0.278430795404,75.105200744406,n/a,n/a
+4545e8d6-83dc-4aa3-9ef8-82bccf68fbb1,Sanitary ceramic products: bidets and WCs (in VC),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,4.52,6.91,1.58,-4.75,n/a,n/a
+45db1a63-ea4f-4564-989d-8d78f7c4af28,NEWPLAN 70N prefinished roof element (transmittance U=0.20 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.212384007877,5.207595043861,2.927656742705,1.306369636438,-23.158797251677,n/a,n/a
+46072b58-2a39-4bb3-a03f-e29842c2ffb2,FLAGON® TPO: EP/PV-F,2017-01-01,2024-01-01,,n/a,n/a,n/a,,0.000688,,0.00483,,n/a,n/a
+4685631c-590d-4dcf-b8c4-22328ed2eaf5,"Aliant 3 B 14,10m Klima Plus",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,151.872354510962,171.871931910134,135.110951767736,-362.196641386965,n/a,n/a
+46e8e502-1179-4636-bc62-b6b29dca71d6,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR NET 160",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00191,0.00477,0.0203,0.0129,-0.0175,n/a,n/a
+470f2411-d39f-4595-ae9f-172375c0e987,METRA CURTAIN WALLS SYSTEMS: POLIEDRA SKY 35 LUX,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.952,1.65,2.98,0.481,-39.1,n/a,n/a
+47e6b106-1fb7-4c17-a3ca-207fb8d70a35,Cemento di Caravate,2021-01-01,2027-01-01,267.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+484bfbd9-5095-4728-a422-068cbb2a97b3,Lastrame Grezzo,2017-01-01,2025-01-01,57.2,n/a,n/a,n/a,,,,,,n/a,n/a
+48beb8bf-0043-4c9d-9cad-fd7bc6d18617,"Aliant 1 B 17,08m Klima Max",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,189.955516188301,214.229937606624,157.920775525346,-482.547405792826,n/a,n/a
+490d738e-f38c-4ca1-8a72-799fd3e5a8f5,"CEM II B-LL 32,5 R - Cemento Portland al calcare EPD0098",2019-01-01,2026-01-01,694.0,n/a,n/a,n/a,,,,,,n/a,n/a
+4926142c-2cae-4606-b407-7e414363183d,Eco Espanso 100,2019-01-01,2025-01-01,309.0,n/a,n/a,n/a,,0.00313,1.83,0.0,-0.22,n/a,n/a
+496bda39-9240-415e-9786-33d379bf67ce,"CEM II A-LL 42,5 R - Cemento Portland al calcare EPD0097",2019-01-01,2026-01-01,742.0,n/a,n/a,n/a,,,,,,n/a,n/a
+49bb3b08-4aaa-4857-8b94-53db5b9e430f,Pannelli in solfato di calcio per pavimenti sopraelevati KFL,2018-01-01,2025-01-01,14.8,n/a,n/a,n/a,,,,,,n/a,n/a
+49d16b4c-8fb9-4b33-9017-506fb54499b1,"Shower enclosures: Young G+F, 90x90 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.396817598452,0.0,0.198933285784,-1.941942267632,n/a,n/a
+4b34dd1c-6187-496c-9615-840a1bc130da,Blocchi per murature in laterizio SL 100 + alleggerene (Alveolater),2016-01-01,2024-01-01,0.195,n/a,n/a,n/a,,,,,,n/a,n/a
+4b576624-d8da-4486-97f9-0b6724fb4866,"Extreme section – PVC window 1,23m x 1,48m: Coloured PVC - Triple Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.64937627,6.025154886,3.23282643,-13.21611986,n/a,n/a
+4b5b3f81-8bd2-4d80-be65-d854a7cabfd4,Rivestimento in Pietra Serena di Fiorenzuola con superficie sabbiata con bordi rifilati (spessore 4 cm),2017-01-01,2024-01-01,63.9,n/a,n/a,n/a,,,,,,n/a,n/a
+4bfe77fc-80a9-418b-a52d-a3106728074c,VERNICI SANITOP,2017-01-01,2024-01-01,7.6,n/a,n/a,n/a,,,,,,n/a,n/a
+4c1ae54c-1336-48a3-bd6c-e771a017b1df,Blocchi per murature in laterizio SL 100 + alleggerente (Termofon/Alveolater bio),2016-01-01,2024-01-01,0.195,n/a,n/a,n/a,,,,,,n/a,n/a
+4c1bb3a7-2fbc-4e2c-bcd7-7f7205d4a112,"CEM II A-LL 42,5 R - Cemento Portland al calcare EPD0098",2019-01-01,2026-01-01,821.0,n/a,n/a,n/a,,,,,,n/a,n/a
+4ce6f6d4-a015-4fd7-8ce3-6322ae5230ff,Isoparfire elegant Adriarock FN: A6-A6,2019-01-01,2026-01-01,49.79,n/a,n/a,n/a,,,,,,n/a,n/a
+4cee1c48-14e2-46e4-b322-7796ef26a912,Calcestruzzo preconfezionato - EL40001 - Techbau SpA - Cantiere Polo Logistico Teddy - Gatteo (FC),2018-01-01,2024-01-01,433.0,n/a,n/a,n/a,,,,,,n/a,n/a
+4d1f12c7-30b9-4a9c-be45-560eb0c17b6d,Spatulated coatings: 1.5 ACRIL-SILOSSANICO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+4d4afaa8-e49c-46e5-82be-a0bdfe805849,RECYCLED AGGREGATE (0/8 - 0/40 - 40/100 - LIMO),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.333,3.5,4.0,0.532,0.0,n/a,n/a
+4d9864f3-d487-41eb-b157-e4227e70beba,Metal ceilings: steel planks,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.04095659686,3.797281770932,0.126037648751,-21.943544300264,n/a,n/a
+4dde2ca4-55f8-431a-aa34-7d732977dbbf,Miscele di calcestruzzo riciclato: Rck C25/30,2019-01-01,2027-01-01,262.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+4de95105-33c6-4501-93a3-e1bc88ad64c1,EUROBATEX® pipe slit SELF-ADHESIVE (AD2) + rubber foam OVERLAP (ADG),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.214038505864,0.0,5.614773784118,-0.835688163673,n/a,n/a
+4dfdf20b-015b-40ce-a6ff-f7999c3b2acc,Self locking blocks for external pavements: CLASSIC,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.21,8.39,0.0,1.58,-1.98,n/a,n/a
+50932edd-a72c-4ec2-ba3a-f7ea58d7e98e,CEMENTED MIX produced by NUOVA DEMI: MC 4% Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.00426,1.82,0.234,0.0,n/a,n/a
+509491df-58ed-46f5-a5e5-53c6ede377c0,IT-FLEX C1 OP pre-cut tube with PVC Overlap,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.20697246233,0.0,5.429413508059,-0.831396690875,n/a,n/a
+50c10e8c-7aeb-46ef-8913-a67f35a5d7b6,Pannelli in solfato di calcio per pavimenti sopraelevati KFV,2018-01-01,2025-01-01,16.27,n/a,n/a,n/a,,,,,,n/a,n/a
+510fad7d-244b-4616-ad13-86f18384df21,"CEM II/A-LL 42,5 R",2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+51111774-64a6-4c35-856a-3e0d452bdfd7,BasalTop® 440SX,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.89838598989,2.975151383879,14.298154058513,13.681080635524,-15.924500682104,n/a,n/a
+513a2ce2-1e25-4b33-85bb-63949143acc1,Blocchi per murature in laterizio SL 19 + alleggerente,2016-01-01,2024-01-01,0.326,n/a,n/a,n/a,,,,,,n/a,n/a
+51c33165-12cb-43c5-b764-5d8663bca6e4,"Prefabricated concrete panels: 08 Pannelli ""EI"" Pieni sp 20",2023-01-01,2028-01-01,,n/a,n/a,n/a,34.673168198699,76.821429189575,4.936806329932,0.335345798613,-9.526329082669,n/a,n/a
+51ef9172-ad3f-4f47-909a-f3d39a1e8d7f,"Aliant 2 B 20,60m Klima Plus",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,270.668517422706,277.84572345144,193.153121256012,-626.151829271407,n/a,n/a
+529ee89f-1285-4fc6-823d-25e6f18bd431,CLIMABLOCK CK16LI180,2018-01-01,2026-01-01,39.857269,n/a,n/a,n/a,,,,,,n/a,n/a
+53358b05-60f9-4ae8-a58a-5ba2682f3680,ROLLER SHUTTERS ALUMINIUM: AS55 Polla/Polesine,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,1.71e-08,-0.0243,0.155,-0.21,n/a,n/a
+53f9a05c-0278-4e26-98d8-d67ff053a6f6,Reinforced concrete road safety barriers New Jersey profile: NJB48D620-1,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,91.38,29.98,0.79,-171.26,n/a,n/a
+545daf97-a679-4708-b9c0-a592181babff,Materiali inerti naturali: sabbia bianca deferrizzata in big-bag,2020-01-01,2026-01-01,11.8,n/a,n/a,n/a,,,,,,n/a,n/a
+546f8e9e-f3c1-4d9a-bf1f-c82b9e67032e,Pannelli in solfato di calcio per pavimenti sopraelevati KF0,2018-01-01,2025-01-01,12.86,n/a,n/a,n/a,,,,,,n/a,n/a
+546fcd21-942d-431c-83d1-4d5b2beb202d,SUPERCEL® Building Insulation: Supercel Papyrus,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.0126,0.0,0.0406,0.0,n/a,n/a
+54838dfd-2080-4e5b-b035-31421b06f81f,CLIMABLOCK CK16LI060,2018-01-01,2026-01-01,24.8967908,n/a,n/a,n/a,,,,,,n/a,n/a
+55a2ec18-a73b-4609-b598-3d3564744d47,Ready-mixed concrete mixtures: Multibeton R30C4D31S5XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.559492,3.9978349,0.22563116,-8.6350809,n/a,n/a
+55ecdfe0-d7dc-4453-a36a-ec56d8b59a04,"Prestigio section – PVC window 1,23m x 1,48m: White PVC - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.545811668,5.456068564,3.035444278,-12.38436091,n/a,n/a
+5638903b-4975-4e42-8104-cd7f37163ec3,"Prestigio section – PVC window 1,23m x 1,48m: White PVC - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.635507775,5.730567131,3.033880579,-12.4541063,n/a,n/a
+56c01492-6c4a-4f32-a8cc-dd365b49485b,Cemento di Caravate,2021-01-01,2027-01-01,298.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+571a5e91-c7fa-4027-a7d0-10ea5971ea33,Calcium sulphate panels for raised floor with various finishings: PG6AMP,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.250832005471,0.0,0.623066833985,-0.006742295679,n/a,n/a
+57494863-e1de-44ba-8991-60fbbe77b91c,Eurocinque HP Adriaroof HP L06-A04,2019-01-01,2026-01-01,63.7,n/a,n/a,n/a,,,,,,n/a,n/a
+5796b75b-80fa-4263-b09b-89ea04c6a2e6,"Air, wind and water barrier membranes and Vapor control layers: VAPOR IN NET 140",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00148,0.0037,0.128,0.00626,-0.0997,n/a,n/a
+5851366a-c8a2-4bfa-be54-e726b7cd8d88,Metal ceilings: structures DB ACCESS,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.01007564957,0.934161608007,0.0,-5.39828692885,n/a,n/a
+58def7e7-5e14-4506-ad13-2fc4cd88195d,Polymer Bitumen Waterproofing Membranes: GUMMIVAL 4 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.03565419769,0.036005760741,0.0,-0.154195115601,n/a,n/a
+590b19c6-f2ee-4d38-9f75-24d3e8f6bed9,AMPHIBIA 3000 GRIP 1.6,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,1.18,0.0,0.906,0.0,n/a,n/a
+5940857e-4aad-4084-a158-d73c0321c530,CLIMABLOCK CK25LI060,2018-01-01,2026-01-01,22.362057,n/a,n/a,n/a,,,,,,n/a,n/a
+597680b7-b31e-4181-ba93-a26bf428aab5,ANTA TAMBURATA PER PORTE DA INTERNO LUCIDA 900x2400 mm,2017-01-01,2024-01-01,97.0,n/a,n/a,n/a,,,,,,n/a,n/a
+59a39564-a1bf-4c0b-ab9a-1289e68173e1,Aluminium profiles for doors and windows – series: MX166  MX166.103,2021-01-01,2026-01-01,7.0266,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9379,n/a,n/a
+5a27d10f-3632-4cb4-b016-b526d67b58de,BasalTop® 297SM,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.898386034533,1.898137679079,10.637716068293,7.35570127207,-10.576074029151,n/a,n/a
+5a50bbdd-4e0d-46f6-b937-85a80b550f29,METRA WINDOWS SYSTEMS: NC75HES WS,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.812,1.41,5.85,0.351,-34.8,n/a,n/a
+5a5980df-c9e7-4691-aa4b-f17d1fbe3429,Isoparfire elegant Adriarock FN: A8-A6,2019-01-01,2026-01-01,53.94,n/a,n/a,n/a,,,,,,n/a,n/a
+5b19a63b-872e-47d1-b08f-3201f4297e49,Calcium sulphate panels for raised floor with various finishings: PG6AMH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.343167510217,0.0,0.852428282389,-0.006742295663,n/a,n/a
+5bce363a-81eb-4ad2-938f-b15be2edc891,"Aliant 1 BC 17,08m Klima Max",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,209.565775196168,222.127620622829,151.741248085607,-511.130358142283,n/a,n/a
+5c6e5765-081b-47e7-8a11-3eb25cafbf2c,PP3®,2019-01-01,2027-01-01,,n/a,n/a,n/a,0.177,0.468,7.01,1.03,-4.59,n/a,n/a
+5cc1b090-615b-4299-ae03-b5a4ebca8c6d,STRETCHED COILS,2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838900796159,17.824300235766,2.362400572083,0.278430795404,75.105200744406,n/a,n/a
+5cc78856-8d1e-48b7-8a3c-57b10a0e5d5b,"CEM IV B(P) 32,5 R-LH/SR - Cemento Pozzolanico con basso calore d'idratazione e resistente ai solfati EPD0097",2019-01-01,2026-01-01,573.0,n/a,n/a,n/a,,,,,,n/a,n/a
+5cc8e3fd-fac9-4c13-bde2-ab4a599b654b,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 2 bush-hammering and cut to size in thickness 2 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+5cd3ef7f-3f44-492f-a75a-925a7aaf6dbe,ECO-ESPANSO K200,2019-01-01,2025-01-01,551.0,n/a,n/a,n/a,,0.00575,3.36,0.0,-0.408,n/a,n/a
+5d6b1261-b75e-413e-b7a7-04f050a1932d,Linear and special prefabricated concrete elements: 11 Arcareggio h82,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437259716546,21.482418734405,28.382516604264,1.728711315395,-54.863901695054,n/a,n/a
+5d7da412-112f-4613-88f6-ebd0fdd221cd,Hemp and lime Biocomposite building products: Bio Beton Jet,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.259,0.496,0.0,-11.5,0.0,n/a,n/a
+5dbe4967-2aca-4e97-b4f6-3832ab386a42,Calcium sulphate panels for raised floor with various finishings: PG3AMH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.343167510217,0.0,0.852428282389,-0.006742295663,n/a,n/a
+5df12517-3307-4542-9e28-f68c75138303,"CEM IV/A (P-V) 42,5 R SR",2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+5df6ae9b-d8c1-4a3d-b464-d029592eaae4,Pavimenti in legno Collezione Garbelotto SP10,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+5e25b83d-17a8-4926-8645-fb12907314ad,Isoparfire Adriawall Rock A08-A06,2019-01-01,2026-01-01,47.6,n/a,n/a,n/a,,,,,,n/a,n/a
+5efe6a7e-a54e-4964-9b03-d2ff5384dd59,"Aliant 1 B 17,58m Klima Max",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,195.43964029571,222.091702915741,162.685781105179,-487.799078436166,n/a,n/a
+5f1903c7-127b-4e08-a991-33de7005ab4a,"Prestigio section – PVC window 1,23m x 1,48m: Coloured PVC - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.545811668,5.456068564,3.035444278,-12.38436091,n/a,n/a
+5f21a6ce-4035-402d-87b2-f0c2304fa56e,PIATTI DOCCIA BIANCHI ,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.00334,0.004,0.0,-0.00672,n/a,n/a
+5f5afe57-3a30-467a-90c5-708eb40e46d0,Porcelain stoneware Ceramic tiles and slabs,2016-01-01,2023-01-01,13.9,n/a,n/a,n/a,,0.0532,0.0515,0.139,-0.211,n/a,n/a
+5f62c92d-3fe0-489e-9b0f-0890e47bc4e3,Panel KlimaWall® 30 Max (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002784986,5.85292938081,4.804058465559,5.616569831944,-12.972805244875,n/a,n/a
+5f67d31d-5ded-494c-b606-f3460441a7e0,METRA WINDOWS SYSTEMS: NC75HES WX,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.799,1.38,5.79,0.338,-36.2,n/a,n/a
+5f763a88-4fbb-438c-81f0-698ead1aabf7,ROLLER SHUTTERS ALUMINIUM: AS55 Polla,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,4.55e-08,-0.025,0.159,-0.215,n/a,n/a
+5fea9e91-2261-4b7b-9c20-4223db38994c,Metal ceilings: aluminium planks,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.014997890432,2.771629494041,8.342265575551,-24.092812556196,n/a,n/a
+602eaf3a-25ba-42f3-ba6c-d7959296f448,Panel KlimaWall® 30 Plus (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002778967,5.852929389071,4.804058471907,5.616569833655,-13.333877974316,n/a,n/a
+6061effe-a0fc-46db-b127-4275e9863157,"In Alpha section – PVC window 1,23m x 1,48m: White PVC - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.616438595,5.352933292,2.779574836,-11.43989039,n/a,n/a
+6072823b-04fa-41bc-b835-4076f371009a,Water-based paints: DECORPAINT BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+610b4bb6-3bfa-4255-9f08-9355ed3b17a3,3x3m Wood Wall / solid,2023-01-01,2028-01-01,,n/a,n/a,n/a,14.98791081494,31.853054385397,280.93546786912,76.564779177172,-138.874943412214,n/a,n/a
+616ecdaf-7849-4955-a2f8-c213c3324be2,CERAMIC TILES - Finale Emilia,2018-01-01,2024-01-01,9.47,n/a,n/a,n/a,,0.0962,0.0473,0.128,-0.166,n/a,n/a
+618e35c9-3c09-4d3f-b5ac-5ce0331439d5,ANTA TAMBURATA PER PORTE DA INTERNO GREZZA 800x2100 mm,2017-01-01,2024-01-01,79.6,n/a,n/a,n/a,,,,,,n/a,n/a
+61c24b26-fe75-4972-bc8d-40164c2a32c3,"Shaped, cutted and welded steel FOR REINFORCED CONCRETE (Montirone)",2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838900920317,18.220395735433,2.362400563916,0.27843079635,153.624273374379,n/a,n/a
+6230dfa6-7b4e-493c-8329-d0c582bbb511,RÖFIX EPS-F 036,2019-01-01,2025-01-01,302.0,n/a,n/a,n/a,,0.00313,1.83,0.0,-0.225,n/a,n/a
+6263b04d-a2ed-449c-b4f1-c534bac76aec,Conglomerati bituminosi: Binder Hard,2020-01-01,2027-01-01,40.4,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+62d37384-07b0-48d4-901f-92c571993561,Linear and special prefabricated concrete elements: 21 Tegolo TTBS Gamba 16,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.442596571515,21.866741508649,31.003320296125,1.820904211899,-60.010558309762,n/a,n/a
+62f43a8a-5e87-49e7-8b73-0cf5e086c54c,SINSTONE aggregato artificiale di origine industriale,2021-01-01,2025-01-01,,n/a,n/a,n/a,53.8,34.4,0.0,2.52,0.0,n/a,n/a
+645aadb8-cb39-4e44-bfde-c1a2893a2c38,NEWPLAN 60N prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.060276788865,4.554243633981,2.554450980247,0.2805014049,-19.917149119377,n/a,n/a
+648afea3-0983-4d99-9a7e-2499fc284ace,"CEMENTO PORTLAND COMPOSITO TIPO II/B-LL 32,5 R",2020-01-01,2026-01-01,685.0,n/a,n/a,n/a,,,,,,n/a,n/a
+648d5d74-4197-4171-9d12-d299d9a52b0e,Porcelain stoneware and single firing white body ceramic tiles and slabs,2016-01-01,2023-01-01,11.6,n/a,n/a,n/a,,0.0438,0.0425,0.115,-0.252,n/a,n/a
+65493aa3-3b00-4ed3-941f-4aaac1f547e7,"Cementi pozzolanici TENACEM 32,5 R",2018-01-01,2024-01-01,819.0,n/a,n/a,n/a,,,,,,n/a,n/a
+65b4fdbd-1ba9-4a5a-8282-b298ef099e54,Water-based paints: DECK FORTE ACRIL-SILOSSANICO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+65f8cfb1-f3c0-47ef-83e7-9ad8ffb553bf,"Shaped, cutted and welded steel FOR REINFORCED CONCRETE (Catania)",2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838901212284,18.22039578615,2.362400568627,0.278430796105,153.624273606539,n/a,n/a
+664867ee-db83-406f-9262-c3235b93505f,"CEM IV A(P) 42,5 N-SR - Cemento Pozzolanico resistente ai solfati EPD0097",2019-01-01,2026-01-01,661.0,n/a,n/a,n/a,,,,,,n/a,n/a
+665481e9-9e2e-4a54-9f1a-3a0a58ce5499,Cemento,2016-01-01,2022-01-01,775.0,n/a,n/a,n/a,,,,,,3150.0,n/a
+6719d07d-d738-43c0-9ade-b9039115baf3,GRES PORCELLANATO - Finale Emilia,2017-01-01,2023-01-01,12.5,n/a,n/a,n/a,,0.0629,0.0609,0.165,-0.318,n/a,n/a
+6746751e-4299-48b2-930c-d5beb7a202e4,CERAMIC TILES: slabs 5 mm ,2021-01-01,2026-01-01,17.0,n/a,n/a,n/a,0.0,0.27,0.144,0.0194,-0.283,n/a,n/a
+674ca9f0-37f6-4a47-a5a4-22773f27350b,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 30 ECO Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0105,1.82,0.578,0.0,n/a,n/a
+676f9c15-973c-48b6-aefd-c68d17eee7ce,"Extreme section – PVC window 1,23m x 1,48m: PVC Aluminium sheet - Double Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.596956234,5.902253282,3.277334244,-27.70279488,n/a,n/a
+67911e09-fd43-4f2d-b84e-9d03a053fc6f,Cemento di Caravate,2020-01-01,2026-01-01,619.0,n/a,n/a,n/a,,,,,,n/a,n/a
+685d0b00-5328-4b57-a9d5-05e13a908004,Panel KlimaWall® 30 REI 120 Max (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002784986,9.396284690956,5.756598834805,2.933416706127,-14.438696542357,n/a,n/a
+686e62c0-c002-4a19-a776-8fecfffd1c9d,TELAIO IN ALLUMINIO PER PORTE DA INTERNO RM55 900x2400 mm,2018-01-01,2024-01-01,198.7,n/a,n/a,n/a,,,,,,n/a,n/a
+69da148f-9c00-4fe1-9c73-4d50b07efd0e,KLIMA AIR di Kerakoll Spa,2015-01-01,2023-01-01,45.5,n/a,n/a,n/a,,0.0871,50.9,0.0,-6.24,n/a,n/a
+6a14932c-6325-4c97-9557-11c0dd79ecc4,ANTA TAMBURATA PER PORTE DA INTERNO OPACA 800x2100 mm,2017-01-01,2024-01-01,83.2,n/a,n/a,n/a,,,,,,n/a,n/a
+6aa863a9-f2c8-40c4-a5ec-5b55bc4ce390,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 50 ECO Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0104,1.82,0.572,0.0,n/a,n/a
+6ae79422-eaac-4420-baed-1c7685b2fcb6,ACCIAI PER L’EDILIZIA: TRALICCIO,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,0.9,-716.5,n/a,n/a
+6af6faac-551a-46d8-a6e4-d3571bf1d1d3,CLIMABLOCK CK16LI120,2018-01-01,2026-01-01,32.3770299,n/a,n/a,n/a,,,,,,n/a,n/a
+6b179580-dd86-4d4d-b25f-349451184e22,Isopar Adriawall A05-A05,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+6b7e54ad-7e9e-4ee7-b828-ddf7bcca2ed3,Prefabricated concrete panels: 01 Pan all sp 20,2023-01-01,2028-01-01,,n/a,n/a,n/a,34.666992570989,76.931933397965,3.556644424461,0.228998813133,-6.872922073056,n/a,n/a
+6b9949be-8751-476a-8bf1-585299d7191a,Calcium sulphate panels for raised floor with various finishings: PG3AVH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.356638433638,0.0,0.885890063412,-0.006742295676,n/a,n/a
+6ba49c04-c4ac-4d64-9afb-d375b244c2a0,METRA WINDOWS SYSTEMS: NC65HES WS,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.798,1.38,4.58,0.348,-34.0,n/a,n/a
+6bab315b-4a3c-4c97-9d55-b01ccf2be190,"""Reinforced concrete road safety barriers New Jersey profile ""ABESCA H120 FAST""",2024-01-01,2025-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+6c17e03b-9a47-4307-8def-83118f03ab31,Eurofire Adriaroof Rock A06-A06,2019-01-01,2026-01-01,47.2,n/a,n/a,n/a,,,,,,n/a,n/a
+6ca8f5ca-a98e-43cd-8a91-ba60266de5b2,"Concrete EA8006-A.N.Costruzioni Srls-Cantiere Amazon TRN8, Orbassano",2022-01-01,2027-01-01,127.0,n/a,n/a,n/a,,,,,,n/a,n/a
+6cec876b-4248-4b57-91ba-e3ce63889507,"CEM IV/B (P) 32,5 R - LH/SR - Cemento pozzolanico con basso calore di idratazione e resistente ai solfati",2019-01-01,2026-01-01,582.0,n/a,n/a,n/a,,,,,,n/a,n/a
+6d591418-5a28-41b9-a935-7e63a5df2ced,Polyisocyanurate Sandwich Panels (PIR) with Multilayer paper/aluminium coating: UNIKO.22 thickness 80 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.012296358504,1.643830229911,0.0,0.032259487131,0.0,n/a,n/a
+6d72ccad-8f43-4e6d-a653-f06e5df35579,Isopar elegant HP Adriawall HP FN: A05-A05,2019-01-01,2026-01-01,51.45,n/a,n/a,n/a,,,,,,n/a,n/a
+6db321db-e65f-44c1-8ffa-6faa1e6e78b3,ECO-POR K150,2019-01-01,2025-01-01,394.0,n/a,n/a,n/a,,0.00409,2.39,0.0,-0.291,n/a,n/a
+6dd909c1-c711-4e07-9734-016330fc5a42,Eurofire Adriaroof Rock A05-A05,2019-01-01,2026-01-01,43.26,n/a,n/a,n/a,,,,,,n/a,n/a
+6e0c3e3d-fa7f-4017-bb71-8d699b8c4be8,Cemento di Caravate,2021-01-01,2027-01-01,164.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+6e51657b-4e52-4afd-b437-5318d4bb9b82,Polymer Bitumen Waterproofing Membranes: OPTIMA GREEN ENERGY,2023-01-01,2028-01-01,3.208288804274,n/a,n/a,n/a,0.0,0.035851693536,0.036205203965,0.0,-0.153805447957,n/a,n/a
+6e800b8b-4cb1-473a-922f-d8b51ecff08a,Calcium sulphate panels for raised floor with various finishings: PG3AMM,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.25658698904,0.0,0.637362215118,-0.006742295668,n/a,n/a
+6ea3f00f-7d8a-4ec3-92c2-b7016d0a7902,Pannelli in solfato di calcio per pavimenti sopraelevati KAF,2018-01-01,2025-01-01,12.99,n/a,n/a,n/a,,,,,,n/a,n/a
+6f154ed4-f8d1-4c2e-9177-c02dd52f3396,CAST-IN ANCHOR CHANNEL SYSTEMS: GP 40/223,2020-01-01,2026-01-01,6.03,n/a,n/a,n/a,,,0.0,0.0,-1.7,n/a,n/a
+6f404b62-2542-4f3a-a0aa-9eae46d268e6,"Concrete EA8011-Recodi Tecnology srl-Cantiere Amazon TRN8, Orbassano",2022-01-01,2027-01-01,224.0,n/a,n/a,n/a,,,,,,n/a,n/a
+6f6c4bc4-f761-4727-a288-a3c68f52ff94,Industrial locks Fidelity® Compact®,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.319,6.21,0.3,-74.6,n/a,n/a
+6f9f3260-78a5-42e9-93ac-5e6599dd76ce,Materiali inerti naturali: sabbia umida in big-bag,2020-01-01,2026-01-01,10.2,n/a,n/a,n/a,,,,,,n/a,n/a
+6fff69f3-336c-4196-98e5-d70c6b0b1da0,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 8 micro-sandblasting and cut to size in thickness 3 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+7061ea4d-6fd1-411c-88ad-ab4c4c19bbd9,CAST-IN ANCHOR CHANNEL SYSTEMS: GP 50/30,2020-01-01,2026-01-01,8.67,n/a,n/a,n/a,,,0.0,0.0,-2.34,n/a,n/a
+70efca0f-86c2-4bd3-8f13-64f49eb2f300,Self locking blocks for external pavements: FILTERING,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.21,8.39,0.0,1.58,-1.98,n/a,n/a
+7175e86c-05e5-4b60-91c2-e7db50d290a0,Calcium sulphate panels for raised floor with various finishings: PG3AMV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+71f69779-5087-433e-a9f1-fe5a042fe910,Aluminium profiles for doors and windows – series: CX850PH  CX85.238,2021-01-01,2026-01-01,7.534,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.8749,n/a,n/a
+728aee55-f49c-4491-9956-a04660c277a2,METRA CURTAIN WALLS SYSTEMS: POLIEDRA SKY TECH 60,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.964,1.67,3.02,0.47,-44.1,n/a,n/a
+72a9d274-e54b-4963-98d6-624b2d4bd972,Prefabricated concrete panels: 03 Pan TT PU sp 30,2023-01-01,2028-01-01,,n/a,n/a,n/a,34.66757644149,93.577774052952,4.503553397348,0.297908034234,-8.696940445402,n/a,n/a
+72e6c619-c80d-40ca-95b0-12b011890b32,Calcium sulphate panels for raised floor with various finishings: PG6AVP,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.264302927008,0.0,0.656528615008,-0.006742295667,n/a,n/a
+72ea7113-9fd2-473e-89da-fe586c072cf6,"ROLLER SHUTTERS PVC: Sole 4,5",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,2.41e-08,-1.13,0.794,-12.9,n/a,n/a
+73f82e7d-6c94-405b-bf7f-b8b60a41c883,PILASTRI E TRAVI: Pilastri sede di Bastia Umbra,2020-01-01,2027-01-01,675.0,n/a,n/a,n/a,1.2,7.96,19.7,2.83,-19.2,n/a,n/a
+73fb6f26-13d7-496c-bc72-eb99fe42528f,CERAMIC TILES: slabs 3 mm,2021-01-01,2026-01-01,10.2,n/a,n/a,n/a,0.0,0.126,0.0672,0.00905,-0.135,n/a,n/a
+73fcfdb0-5d9d-4ebe-869e-e81200785caa,Isoparfire elegant Adriarock FN: A5-A6,2019-01-01,2026-01-01,47.73,n/a,n/a,n/a,,,,,,n/a,n/a
+744cfc4a-1853-47b4-8f14-d0681727c904,Aluminium profiles for doors and windows – series: CX700HP  CX70.627,2021-01-01,2026-01-01,7.19,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9176,n/a,n/a
+744e02f6-f50a-47bb-b584-7833f5f6b43a,Prefabricated concrete panels: 07 Pan TT EI EPS GR al sp 35,2023-01-01,2028-01-01,,n/a,n/a,n/a,34.670921054913,111.463473576864,4.876751133425,0.335412237448,-9.407664006804,n/a,n/a
+74f7dc17-0f89-44a5-8df3-31f4d7c63d54,PANNELLI PREFABBRICATI: pannello 20 Bastia Umbra,2020-01-01,2027-01-01,131.0,n/a,n/a,n/a,0.313,1.14,1.87,0.605,-4.61,n/a,n/a
+753875a4-2751-46c0-b5d7-941453f77176,PORCELAIN STONEWARE SLABS 0178,2019-01-01,2026-01-01,10.8,n/a,n/a,n/a,0.0,0.0899,0.0439,0.111,-0.0406,n/a,n/a
+757b26b1-2394-4c22-ad38-fec6e6c37a16,DRAWN WIRE,2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838901343511,17.82430025964,2.362400563923,0.278430799357,75.105201443858,n/a,n/a
+75b9bf7f-741b-4274-9aca-d41d153d13af,Isopar elegant HP Adriawall HP FN: A04-A04,2019-01-01,2026-01-01,47.46,n/a,n/a,n/a,,,,,,n/a,n/a
+76de1eb7-35d6-4efa-bc41-a44edab91b39,Materiali inerti naturali: ghiaia sfusa,2020-01-01,2026-01-01,2.54,n/a,n/a,n/a,,,,,,n/a,n/a
+7738a10e-23a8-4f72-b902-a8700454f31d,Cemento di Caravate,2021-01-01,2027-01-01,285.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+776df8d2-8435-4115-8b7c-fda024a09674,"Prestigio section – PVC window 1,23m x 1,48m: PVC Aluminium sheet - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.674212013,5.841871603,3.042733434,-28.56777671,n/a,n/a
+78a26f40-3fea-469e-8f8e-abad569fd05e,"CEM I 52,5 R",2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+78e3e80b-320c-4cab-8860-26dc3742ed16,Pannelli in solfato di calcio per pavimenti sopraelevati KAV,2018-01-01,2025-01-01,13.21,n/a,n/a,n/a,,,,,,n/a,n/a
+7a03f6e8-47bb-43a4-8546-ab0c41d25327,PILASTRI E TRAVI: Travi sede di Aprilia,2020-01-01,2027-01-01,739.0,n/a,n/a,n/a,1.2,7.71,16.0,2.8,-19.3,n/a,n/a
+7a6d6c29-6b6a-4405-b634-7635335d886f,Calcium sulphate panels for raised floor with various finishings: PG3AVW,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.274278232804,0.0,0.681307275639,-0.006742295664,n/a,n/a
+7a8cd6e9-bc57-4631-a23f-7f9b19404348,Full concrete panel 18cm (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002786376,7.36780988799,3.780967646541,0.148139422668,-11.84437130979,n/a,n/a
+7a948125-7ec9-4714-8041-02b1750ef08c,Calcium sulphate panels for raised floor with various finishings: PG6AV0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.247165867931,0.0,0.613960146745,-0.006742295667,n/a,n/a
+7a9d8cae-32e3-4824-91d0-60c843ed7b68,FLAGON® PVC: PVC SR,2017-01-01,2024-01-01,,n/a,n/a,n/a,,0.000635,,0.00432,,n/a,n/a
+7b21d245-2b65-41d0-ba30-9b2585402b20,COILS,2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838900736677,17.824300271219,2.362400591016,0.278430794587,141.675721123995,n/a,n/a
+7b338fe1-11b4-4125-8d37-2e5a507ab348,CLIMABLOCK CK25LI090,2018-01-01,2026-01-01,26.1276196,n/a,n/a,n/a,,,,,,n/a,n/a
+7b778d24-fa0a-4466-b703-9c8bd8b18d51,Hemp and lime Biocomposite building products: Blocco Ambiente,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.372,0.711,0.0,-8.17,0.0,n/a,n/a
+7bc89c73-8f33-4655-af95-8100f30efb29,Hydraulic binders: XCEM,2022-01-01,2027-01-01,855.0,n/a,n/a,n/a,,,,,,n/a,n/a
+7c458036-408a-41f3-9de9-bdd120565e73,Blocco in Laterizio per muratura e solaio,2016-01-01,2025-01-01,224.0,n/a,n/a,n/a,,,4.02,0.888,-0.402,n/a,n/a
+7cb5e45c-0756-4822-817e-123fa33a9f8d,"CEMENTI IN SACCO E/O SFUSI: CEM IV/A (V) 42,5 R-SR",2019-01-01,2026-01-01,559.0,n/a,n/a,n/a,,,,,,n/a,n/a
+7d410de1-a7c5-4f72-91dc-08af62d67fc0,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 37 Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0105,1.82,0.577,0.0,n/a,n/a
+7d68349a-b0f7-4ba0-9cea-be98aff7f587,METRA WINDOWS SYSTEMS: NC75HES HL,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.835,1.45,6.93,0.371,-33.6,n/a,n/a
+7dc77684-eba4-46e1-9a9d-57367db6920f,Isoparfire Adriawall Rock A06-A06,2019-01-01,2026-01-01,43.9,n/a,n/a,n/a,,,,,,n/a,n/a
+7e8c74d1-ea42-4a42-810c-b9b933602206,Metal ceilings: structures NASCOSTA su 60x60,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.004806080014,0.445594639102,0.0,-2.574980276658,n/a,n/a
+7f2869df-6515-4fcc-8065-61963b9469c5,RÖFIX EPS-F 031 RELAX TAKE IT,2019-01-01,2025-01-01,208.0,n/a,n/a,n/a,,0.0027,1.58,0.0,-0.194,n/a,n/a
+7f8274b2-2afe-4243-96b7-5937bb309c42,VASCA S16,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.00334,0.004,0.0,-0.00672,n/a,n/a
+80876ef1-97c9-4f7e-84df-6f0c580fd7cf,"CEMENTI IN SACCO E/O SFUSI: CEM II/B-LL 32,5 R Ternate",2019-01-01,2026-01-01,554.0,n/a,n/a,n/a,,,,,,n/a,n/a
+809db1b0-99b4-4142-81dd-cd9726774daa,Prodotti Spaccati,2017-01-01,2025-01-01,128.0,n/a,n/a,n/a,,,,,,n/a,n/a
+80a359ba-b1a3-4f42-b5b9-68f5362286f8,Blocchi per murature in laterizio SL 19,2016-01-01,2024-01-01,0.325,n/a,n/a,n/a,,,,,,n/a,n/a
+80f62744-11d7-410b-a4e8-a142799649e9,Hydraulic binders: FIBROPLAST,2022-01-01,2027-01-01,726.0,n/a,n/a,n/a,,,,,,n/a,n/a
+81d66b51-0479-4d59-807b-c5f1e7f6e864,Masselli autobloccanti per pavimentazione esterne serie Classici 0105,2018-01-01,2025-01-01,117.0,n/a,n/a,n/a,,,,,,n/a,n/a
+8213661b-ff94-4fc6-ae75-d71034368aa4,ROLLER SHUTTERS PVC: Sole 6,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,2.89e-08,-1.6,0.794,-18.3,n/a,n/a
+8259989b-3e42-40ec-ba53-bfb4718f6600,Hydraulic binders: MICROLEG D98/25,2022-01-01,2027-01-01,716.0,n/a,n/a,n/a,,,,,,n/a,n/a
+829dedfe-f882-4c64-ab4a-7ac0fe378171,Stabilized wires and strands for prestressing of concretes,2020-01-01,2025-01-01,2.53,n/a,n/a,n/a,,,,,,n/a,n/a
+82c46743-ff39-4f51-beb5-ef8eb9f566e1,Polymer Bitumen Waterproofing Membranes: GUMMIVAL 3 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.02706684695,0.027333735672,0.0,-0.11563673833,n/a,n/a
+82d954c3-c4db-4ab4-adc7-da8c69cf3826,Reinforced concrete road safety barriers New Jersey profile: NJB43T620,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,90.17,29.59,0.76,-109.73,n/a,n/a
+831a0d15-c3fb-4876-9c9e-62822c51057e,ANTA TAMBURATA PER PORTE DA INTERNO IMPIALLICCIATA 800x2100 mm,2017-01-01,2024-01-01,85.1,n/a,n/a,n/a,,,,,,n/a,n/a
+8393f021-24f1-4b6b-8d09-18bc48c1d6d0,"Linear and special prefabricated concrete elements: 15 Trave a ""I"" h94",2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437243845791,21.712727939001,30.612594324517,1.728711315395,-59.282342976161,n/a,n/a
+83e26afc-c11b-4449-89c5-588b1d6dd9d5,Pannelli in solfato di calcio per pavimenti sopraelevati KAG,2018-01-01,2025-01-01,14.11,n/a,n/a,n/a,,,,,,n/a,n/a
+841f7ca1-3b60-4f62-a0cf-4ffa7ce24766,Eurocinque Adriaroof A06-A05,2019-01-01,2026-01-01,40.2,n/a,n/a,n/a,,,,,,n/a,n/a
+8441e77f-e280-421f-86e8-f5c4cc6c3616,"INFILL PANELS: Lightened panel (U=1.1 Wm2K) with concrete finish, th. cm 20, L=cm 900",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.906643942447,3.695635284235,2.880568610972,2.169899726559,-17.109603927631,n/a,n/a
+851925df-07bd-4932-b850-65081f804863,Isoparfire Adriawall Rock A05-A05,2019-01-01,2026-01-01,40.3,n/a,n/a,n/a,,,,,,n/a,n/a
+85730d23-c63c-442f-9db3-3ea5dfdacf7b,"Shower enclosures: Lunes 2.0 G+F, 90x90 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.296114318035,0.0,0.145662243144,-2.749279521301,n/a,n/a
+859e3c37-10a2-4b76-b889-08a168bd3b09,Linear and special prefabricated concrete elements: 13 Trave a L B50 H70,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.43730177664,21.802604701771,33.222286325682,1.763285541703,-64.425507450013,n/a,n/a
+85ba7d5c-3c24-44ef-be04-f95594801f96,Eurofire Adriaroof Rock A05-A06,2019-01-01,2026-01-01,45.1,n/a,n/a,n/a,,,,,,n/a,n/a
+864414d1-df0a-42b2-a6f4-8474b3f7a68f,"Air, wind and water barrier membranes and Vapor control layers: VAPOR 225",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00281,0.00703,0.0954,0.0124,-0.139,n/a,n/a
+864b167a-1f51-4163-861e-07eb5daca1df,LAMINATI A FREDDO RIBOBINATO,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,1.0,-716.5,n/a,n/a
+865c63a3-2dca-48ae-9133-a208416213fa,Pannelli in solfato di calcio per pavimenti sopraelevati KAL,2018-01-01,2025-01-01,11.74,n/a,n/a,n/a,,,,,,n/a,n/a
+868fdb4a-1fc4-470e-a860-e3a275db4468,XYLOFON: HIGH-PERFORMANCE RESILIENT SOUNDPROOFING PROFILE (shore70),2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0832,0.203,5.77,0.33,-2.69,n/a,n/a
+87629209-33ca-42af-a0ee-a873abe4df47,"CEM I 52,5 R - Cemento Portland EPD0097",2019-01-01,2026-01-01,882.0,n/a,n/a,n/a,,,,,,n/a,n/a
+876b9a20-e86d-4984-aafb-3151a33439cc,ECO-ESPANSO K150,2019-01-01,2025-01-01,433.0,n/a,n/a,n/a,,0.0045,2.63,0.0,-0.315,n/a,n/a
+87cbcf8f-342c-4ee6-a4e1-794bb251b4ac,Calcium sulphate panels for raised floor with various finishings: PG6A0H,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.342101774439,0.0,0.849780989587,-0.006742295681,n/a,n/a
+8847d71a-0bd8-4ec9-9e2b-d9cd7284333a,"Polymer Bitumen Waterproofing Membranes: ARDESIA 4,5 PL CLASSIC",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.03801836344,0.038393238004,0.0,-0.167419924006,n/a,n/a
+8890b41e-1b18-4fcb-ba70-8c55bf40cac0,GRES PORCELLANATO - Toano,2017-01-01,2023-01-01,12.0,n/a,n/a,n/a,,0.0537,0.0521,0.141,-0.267,n/a,n/a
+88cafb77-f930-464d-ad5a-f1d9d8f6edfb,"In Alpha section – PVC window 1,23m x 1,48m: Coloured PVC - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.616438595,5.352933292,2.779574836,-11.43989039,n/a,n/a
+88e493c8-06bc-48e0-b85c-f7cfc1fa280a,METRA CURTAIN WALLS SYSTEMS: POLIEDRA SKY TECH 50,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.952,1.65,3.02,0.469,-42.0,n/a,n/a
+892449d4-00ec-4c48-b699-b7d3244a9d1f,"CEMENTI IN SACCO E/O SFUSI: CEM I 52,5 R",2019-01-01,2026-01-01,802.0,n/a,n/a,n/a,,,,,,n/a,n/a
+89271234-0ba3-4e71-905a-b5bde30c5a0d,PILASTRI E TRAVI: Pilastri sede di Aprilia,2020-01-01,2027-01-01,710.0,n/a,n/a,n/a,1.2,8.05,19.6,2.87,-19.5,n/a,n/a
+897c3f06-0d3f-4035-9c02-fd79d5f3d7e2,"CEMENTO POZZOLANICO TIPO IV/A (V) 32,5 R",2020-01-01,2026-01-01,682.0,n/a,n/a,n/a,,,,,,n/a,n/a
+898bc3f6-b806-4796-91d8-5258d03e7c1e,Polymer Bitumen Waterproofing Membranes: GUMMIFLEX CLASSIC 4 PL,2023-01-01,2028-01-01,2.648835715087,n/a,n/a,n/a,0.0,0.0358665677,0.036220224794,0.0,-0.155713290027,n/a,n/a
+8bc0d502-7f9b-43ab-af31-d55d23a708f1,ECO-ESPANSO K100,2019-01-01,2025-01-01,343.0,n/a,n/a,n/a,,0.00356,2.08,0.0,-0.251,n/a,n/a
+8bc46562-142e-45d1-abbf-a6573c8888ab,CEMENTED MIX produced by NUOVA DEMI: MC 4% Zanica,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.00426,1.82,0.234,0.0,n/a,n/a
+8c1f0141-1306-423e-bcb7-cf9b5e027e2b,"EUROBATEX® pipe, 2 meters version",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.259118073837,0.0,6.797325406891,-1.011696041156,n/a,n/a
+8c88b8dd-5377-4d0b-b23b-296f9b69f807,VERNICI MASTERCOLOR PLUS,2017-01-01,2024-01-01,9.7,n/a,n/a,n/a,,,,,,n/a,n/a
+8ca610cd-1e42-4e40-aa5e-1d90e0fb0161,Eurocinque HP Adriaroof HP A05-A04,2019-01-01,2026-01-01,41.5,n/a,n/a,n/a,,,,,,n/a,n/a
+8dd08198-0d92-4bcc-9b83-252768598702,Cemento di Caravate,2020-01-01,2027-01-01,,n/a,n/a,n/a,12.2,31.7,7.7,3.01,5.06,n/a,n/a
+8e14677f-9786-46fd-8e47-a467cc684fdb,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 7 micro-bush-hammering and cut to size in thickness 3 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+8e1dab59-b975-49a6-88fb-de5fcd19d64a,Reinforced concrete road safety barriers New Jersey profile: NJNDBA,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,93.43,30.66,0.87,-328.71,n/a,n/a
+8e9e8408-6fa4-45d0-aa7c-cc403658f416,TECNOPLAN 100N prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.306332588255,5.611135597197,3.152487295859,0.857746355775,-33.329143848465,n/a,n/a
+8eb7b99e-3d6e-4e2a-9da7-20005e1184d3,Cemento di Caravate,2021-01-01,2027-01-01,268.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+8f024f7f-b69f-4baf-bb1c-f5e10c31851a,"DryCrystal RCK45 XC4 S4/S5 D15 CEM IV 42,5 R",2018-01-01,2025-01-01,381.0,n/a,n/a,n/a,,,,,,n/a,n/a
+8f9aaeaf-00b3-43fb-9a1b-756062d93798,Aluminium profiles for doors and windows – series: HX160  HX16.107,2021-01-01,2026-01-01,6.7894,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9673,n/a,n/a
+8fdce6cb-7e85-4efa-8b17-739e0fba03e8,Eco Por G031,2019-01-01,2025-01-01,261.0,n/a,n/a,n/a,,0.0027,1.58,0.0,-0.193,n/a,n/a
+8fdf4dd0-acf6-4a2e-af2b-a666b8ab6a17,FLAGON® TPO: EP/PR-EP/PR-F,2017-01-01,2024-01-01,,n/a,n/a,n/a,,0.00053,0.0326,,-0.0306,n/a,n/a
+902eedc4-11a8-49c2-8362-c88367a95632,Calcium sulphate panels for raised floor with various finishings: PG6AVM,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.270057912538,0.0,0.670823996141,-0.006742295668,n/a,n/a
+908a5008-1302-4185-b37e-8228ce5005c6,DIVINYCELL PET GRADES,2019-01-01,2025-01-01,4.3,n/a,n/a,n/a,,,,,,n/a,n/a
+90a81ee9-cbaa-4a0e-9c6d-ef8e5745014c,PORCELAIN STONEWARE CERAMIC TILES0033,2016-01-01,2023-01-01,16.1,n/a,n/a,n/a,,0.0545,0.0528,0.143,-0.273,n/a,n/a
+9143baa7-760b-4a98-9a28-733dcfe6d63b,CERAMIC TILES - Fiorano Emilia - linea piastrelle,2018-01-01,2025-01-01,11.7,n/a,n/a,n/a,,0.103,0.0506,0.128,-0.0467,n/a,n/a
+915df71d-735b-4515-a288-e366b4143ce4,METRA WINDOWS SYSTEMS: NC75HES SLIM,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.835,1.45,5.24,0.382,-31.3,n/a,n/a
+91623f76-c6cf-4d56-9bee-d9390877e5d3,TECNOPLAN 100R prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.382386197845,5.937811299774,3.340602010666,3.881205515712,-40.823062279372,n/a,n/a
+916ad3b2-bfa9-486b-bfbf-059d2d04a8ca,METRA WINDOWS SYSTEMS: NC65HES HL,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.82,1.42,5.05,0.367,-32.9,n/a,n/a
+927a3223-2ff4-492b-810a-4c3c69a79abb,Panel KlimaWall® 25 Plus (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002784986,5.043849228044,4.035707257589,4.569989383663,-12.113297487445,n/a,n/a
+939410e3-16aa-475e-aed8-9a14af7d0a7a,Isoparfire elegant Adriarock FN: A6-A5,2019-01-01,2026-01-01,47.86,n/a,n/a,n/a,,,,,,n/a,n/a
+93dc2d56-6255-4cdd-84ce-045663047f83,Hydraulic binders: ROSSIPLAST,2022-01-01,2027-01-01,243.0,n/a,n/a,n/a,,,,,,n/a,n/a
+94e8fc0d-9111-4a36-8c8a-6fb20e6c26e4,"Air, wind and water barrier membranes and Vapor control layers: VAPOR IN 120",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00148,0.0037,0.128,0.00626,-0.0997,n/a,n/a
+95031204-3d43-4df0-a463-b090c0ea3bea,Reinforced concrete road safety barriers New Jersey profile: NJM62A620,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,92.23,30.26,0.82,-214.2,n/a,n/a
+95f99ace-cde3-4515-922b-36ee54a86fe8,"Portland, Blast Furnace and Pozzolanic cements: CEM II/B-LL 32,5 R",2022-01-01,2027-01-01,676.2,n/a,n/a,n/a,,,,,,n/a,n/a
+960df8ca-3505-495d-8b88-a78399a80167,TECNOPLAN 85N prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.225805236924,5.265243676822,2.953789778496,3.223375069005,-32.794749144938,n/a,n/a
+96189602-c896-470e-a639-2721fa0c80f8,Isopar elegant Adriawall FN: A05-A05,2019-01-01,2026-01-01,49.74,n/a,n/a,n/a,,,,,,n/a,n/a
+966b1306-2e91-46dc-8476-ab97a64827e4,"CEMENTI IN SACCO E/O SFUSI: CEM II/B-LL 32,5 R Merone",2019-01-01,2026-01-01,562.0,n/a,n/a,n/a,,,,,,n/a,n/a
+96747ee6-1a03-4b28-8a91-99f7af396918,CLIMABLOCK CK20AE180,2018-01-01,2026-01-01,35.3488396,n/a,n/a,n/a,,,,,,n/a,n/a
+96fb499e-a986-491e-b3ca-1d311b6abf40,Calcium sulphate panels for raised floor with various finishings: PG3AMW,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+9700903d-8558-402b-980b-d9e3c186a997,CLIMABLOCK CK20AE120,2018-01-01,2026-01-01,0.02336354,n/a,n/a,n/a,,,,,,n/a,n/a
+97f51dc0-10cd-40de-b516-0a0ee5569fbc,METRA SLIDING WINDOWS SYSTEMS: NC-S170HES,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.81,1.4,5.35,0.362,-39.0,n/a,n/a
+99081674-9f86-49ab-ad2a-4ee38c7c53df,Pavimenti in legno Collezione Garbelotto SP16,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+994601f9-4f4d-4d80-9e3a-ef5f161654bb,Polymer Bitumen Waterproofing Membranes: ASSO MINERALE 4 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.033844507725,0.034178226589,0.0,-0.148523376125,n/a,n/a
+99a2f358-6087-40be-a10e-e19a613dd94b,"CEM IV B(V) 32,5 R-LH/SR - Cemento pozzolanico con basso calore di idratazione e resistente ai solfati EPD0151",2019-01-01,2026-01-01,590.0,n/a,n/a,n/a,,,,,,n/a,n/a
+9a19eef0-9a7c-4204-a026-8940ea072568,"INFILL PANELS: Thermal break panel (U=0.26 Wm2K) with concrete finish, th. cm 30, L=cm 1000",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.130876416955,4.609645085649,4.123460562388,4.326918623148,-13.139909603372,n/a,n/a
+9a383654-33ab-4886-8bc4-b0ea47d7b300,Lightweight panel 25cm (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002786676,5.429416182617,4.118289335997,4.233850941437,-12.971286066101,n/a,n/a
+9a5a43ab-081f-4e27-aa2a-f728266b32aa,"CEMENTI IN SACCO E/O SFUSI: CEM II/A-LL 42,5 R Merone",2019-01-01,2026-01-01,667.0,n/a,n/a,n/a,,,,,,n/a,n/a
+9a6f7399-7f15-469a-9331-1091d4349dc3,VERNICI IDROSMALTO,2017-01-01,2024-01-01,8.33,n/a,n/a,n/a,,,,,,n/a,n/a
+9b6c9fbb-c137-4ba4-9a71-7ce3cc956df5,Cemento di Caravate,2021-01-01,2027-01-01,213.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+9ba3d1db-84fb-4dec-b3b0-af8f3e762539,Porcelain Stoneware Ceramic Tiles,2018-01-01,2025-01-01,9.35,n/a,n/a,n/a,0.0,0.142,0.0597,0.0222,-8.65,n/a,n/a
+9bb43578-46bd-4dcf-aff4-eb497969d811,Pannelli in solfato di calcio per pavimenti sopraelevati KAD,2018-01-01,2025-01-01,10.24,n/a,n/a,n/a,,,,,,n/a,n/a
+9c4d7cda-1461-4c61-bd50-ef3989a97acd,Metal ceilings: open cells JOLLY B15 ALTO,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.009427123277,1.742144554945,0.0,-15.143857435275,n/a,n/a
+9c531d24-3e04-48f1-b5b5-839b6cb87f52,Reinforced concrete road safety barriers New Jersey profile: NJBET105,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,90.73,29.77,0.77,-110.41,n/a,n/a
+9cfdff68-0e37-4cd2-9492-10932c512c42,"Aliant 4 B 27,10m Klima Plus",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,390.799251774528,385.69370867231,281.372968076694,-934.318206485596,n/a,n/a
+9d4663b2-41bd-431c-b522-e3329bde0fdc,"INFILL PANELS: Solid concrete panel REI120, th. cm 24, L=cm 1050",2023-01-01,2028-01-01,,n/a,n/a,n/a,2.319632337256,9.455216921185,5.668928858232,0.425952684727,-57.60180310394,n/a,n/a
+9da0f549-5b00-4e0d-82ab-72036a43bf58,SUPERCEL® Building Insulation: Supercel Flamma,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.0126,0.0,0.0406,0.0,n/a,n/a
+9db469de-7487-475f-bcda-03ea1fe7aafc,EUROBATEX® pipe slit SELF-ADHESIVE on both sides (AD2),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.238680214332,0.0,6.261188400718,-0.931898815195,n/a,n/a
+9e0482bc-7334-4180-9044-f1479a8de5f0,TECNOPLAN 85R prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.292911363033,5.553486943801,3.120090961506,0.906813100277,-33.620609490018,n/a,n/a
+9e063acd-2948-4c94-8c7f-0c010da56611,Pavimenti in legno Sistema Clip Up SP13,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+9e881208-7fa0-4841-a470-1f485b63f050,Acciai strutturali laminati a freddo sotto forma di rotoli ribobinati e reti elettrosaldate,2021-01-01,2026-01-01,,n/a,n/a,n/a,38.2,24.4,1.93,0.732,473.0,n/a,n/a
+9f5bd1bb-4513-4dc8-9d26-539166066c71,Calcestruzzo preconfezionato - EL40003 - Techbau SpA - Cantiere Polo Logistico Teddy - Gatteo (FC),2018-01-01,2024-01-01,444.0,n/a,n/a,n/a,,,,,,n/a,n/a
+9f677ad3-4ec9-49e5-830b-139b5d7c02e9,Conglomerati bituminosi: Tout Venant,2020-01-01,2027-01-01,37.4,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+9f723881-b1ca-45c0-81d7-7839a69e6652,Polyisocyanurate Sandwich Panels (PIR) with grooved aluminium coating: UNIKO.22 AL thickness 60 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.009009774118,1.204465471533,0.0,0.023637135996,0.0,n/a,n/a
+9f811933-566f-44d1-ada5-0b20a9f86a70,STEEL DEFORMED BARS FOR CONCRETE REINFORCEMENT ,2017-01-01,2023-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+9fb72c19-46d2-41e1-bba1-33e9cb10260d,CLIMABLOCK CK16AI090,2018-01-01,2026-01-01,20.651777,n/a,n/a,n/a,,,,,,n/a,n/a
+9fc7d17f-fd97-4e2d-a32a-93712ff7f1c0,ROLLER SHUTTERS PVC: Serena,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,3.35e-09,-0.167,0.0191,-2.48,n/a,n/a
+9fcc6c49-a3b6-4749-80ef-5f578bb7a006,ANTA TAMBURATA PER PORTE DA INTERNO OPACA 900x2400 mm,2017-01-01,2024-01-01,91.1,n/a,n/a,n/a,,,,,,n/a,n/a
+9fe82d1d-74c4-481c-aac3-75820f69539a,Materiali inerti naturali: sabbia umida sfusa,2020-01-01,2026-01-01,2.54,n/a,n/a,n/a,,,,,,n/a,n/a
+9feca2b3-197c-4861-9295-425f1514cf38,Calcium sulphate panels for raised floor with various finishings: PG5AVV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.282761504576,0.0,0.702379726346,-0.006742295671,n/a,n/a
+a03bd392-1f58-4b59-bdc3-26ee9c412542,"BeForce RCK55 XC4 S5 D15 CEM IV 42,5 R",2018-01-01,2025-01-01,462.0,n/a,n/a,n/a,,,,,,n/a,n/a
+a1023bf7-ca28-47d1-9d4d-a83644d50f6b,Repair mortars: PLASTIVO 180,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,6.91,0.0,5.38,0.0,n/a,n/a
+a1a331b8-cd01-459b-a80c-7cfe80e1d86f,Isopar elegant Adriawall FN: A04-A04,2019-01-01,2026-01-01,45.75,n/a,n/a,n/a,,,,,,n/a,n/a
+a1e0fd6d-fe2b-4b09-87c7-99cea984bccc,Calcium sulphate panels for raised floor with various finishings: PG3AVV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.282761504576,0.0,0.702379726346,-0.006742295671,n/a,n/a
+a2379215-5346-443f-88fa-8dee40e859d1,Pexal® + Pexal® Brass,2019-01-01,2027-01-01,,n/a,n/a,n/a,0.147,0.309,3.62,0.423,-2.8,n/a,n/a
+a24820fa-9561-41f6-b33f-2c946b0b7be3,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR EVO UV 210",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00273,0.00683,0.114,0.0158,-0.0963,n/a,n/a
+a315e5a2-353c-4851-843f-589335323ccb,CLIMABLOCK CK25LI180,2018-01-01,2026-01-01,37.3225352,n/a,n/a,n/a,,,,,,n/a,n/a
+a34eee47-d6a1-4e50-b210-08dea751545b,"Shower enclosures: Giada H, 120 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.400237462185,0.0,0.0,-1.129127053545,n/a,n/a
+a387606d-8389-4ed0-94fd-a8001fbf3365,Water-based paints: DECORPAINT PLATINO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+a39d7a00-82bb-4ba3-b614-4edfe1241009,"Shower enclosures: Lunes 2.0 A, 90x90 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.288962785074,0.0,0.184565823903,-3.070117766813,n/a,n/a
+a3cdb4f1-4932-40e0-9ced-176f7b147b31,"Extreme section – PVC window 1,23m x 1,48m: White PVC - Triple Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.64937627,6.025154886,3.23282643,-13.21611986,n/a,n/a
+a45da1dc-1fe9-4f04-9116-7bad889072e4,Calcium sulphate panels for raised floor with various finishings: PG3AB0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.234760682184,0.0,0.583145658524,-0.006742295683,n/a,n/a
+a5b30dbe-9b5b-4b73-b28f-86c7a10e6242,CERAMIC TILES - Ubersetto,2017-01-01,2024-01-01,8.15,n/a,n/a,n/a,,0.0717,0.0353,0.0953,-0.139,n/a,n/a
+a6b8bc4f-3b83-43c4-9ef7-b8c614b4d2d3,Isoparfire elegant Adriarock FN: A5-A5,2019-01-01,2026-01-01,45.62,n/a,n/a,n/a,,,,,,n/a,n/a
+a6ef2d29-49bd-4aaf-ac19-1e3975e4fa51,ACCIAI LAMINATI A CALDO VERGELLA,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,0.9,-716.5,n/a,n/a
+a75d4600-fb64-4902-a9f6-58e463e6dea0,Pannelli in solfato di calcio per pavimenti sopraelevati KA0,2018-01-01,2025-01-01,9.81,n/a,n/a,n/a,,,,,,n/a,n/a
+a7802e73-1950-4077-9c8b-588977777838,Hydraulic binders: ROSSIPLAST,2022-01-01,2027-01-01,283.4,n/a,n/a,n/a,,,,,,n/a,n/a
+a7f419e6-0d9e-4ebf-ac92-521d7cb1d085,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 25 Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0105,1.82,0.573,0.0,n/a,n/a
+a7f82e7f-49d1-4afe-a235-1feb49293710,Cemento di Caravate,2021-01-01,2027-01-01,322.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+a80a615f-1161-4092-b4ef-72667c031e4f,Materiali inerti naturali: sabbia essiccata sfusa,2020-01-01,2026-01-01,21.9,n/a,n/a,n/a,,,,,,n/a,n/a
+a80c0603-16fc-417d-b34a-b9708989a126,Metal ceilings: open cells STD30,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.007426264459,1.372383261651,0.0,-11.929650959216,n/a,n/a
+a88b3286-e43a-454a-bc56-344c93f6c6e2,Polyisocyanurate Sandwich Panels (PIR) with Multilayer paper/aluminium coating: UNIKO.22 thickness 60 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.00962499688,1.286711088456,0.0,0.025251171955,0.0,n/a,n/a
+a8f4086f-9f45-4153-9bf1-3d254e9572c0,Isopar HP Adriawall HP A06-A05,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+a92e24a1-3bb9-4594-a851-3f8dfe73fd57,Metal ceilings: open cells JOLLY LINEAR,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.012719134579,2.350512494767,0.0,-20.432188603148,n/a,n/a
+a9902554-e2fb-407c-a64d-e64273b7a949,CLIMABLOCK CK16LI090,2018-01-01,2026-01-01,28.6114673,n/a,n/a,n/a,,,,,,n/a,n/a
+a99a33e2-3ff7-4ddf-9433-589e4d410613,Polymer Bitumen Waterproofing Membranes: GUMMIFLEX 3 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.027156091934,0.027423860644,0.0,-0.117518478172,n/a,n/a
+a9a33c8c-3673-421f-a3b1-04fa120ad0ad,VERNICI MASTERCOLOR,2017-01-01,2024-01-01,8.66,n/a,n/a,n/a,,,,,,n/a,n/a
+a9b6962f-4c09-4d74-8da9-63c20f5d514d,EUROBATEX® flat sheets WITH ADHESIVE,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.259118073837,0.0,6.797325406891,-1.011696041156,n/a,n/a
+a9f3c06d-dc22-4dd9-8651-1c68080c23f6,Polymer Bitumen Waterproofing Membranes: EXTRAGUM GREEN ENERGY MINERALE,2023-01-01,2028-01-01,3.344814238614,n/a,n/a,n/a,0.0,0.044053142352,0.044487521979,0.0,-0.192817968843,n/a,n/a
+aa3dbae0-1dce-4f0b-b22c-b99a80c5b39a,Calcium sulphate panels for raised floor with various finishings: PG6AM0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.233694944463,0.0,0.580498365722,-0.006742295667,n/a,n/a
+aa475356-d48f-477a-9c28-9b28aa5c1887,SISTEMA A CAPPOTTO IN LANA DI ROCCIA,2017-01-01,2024-01-01,230.0,n/a,n/a,n/a,,,,,,n/a,n/a
+aa5a8c30-3c24-41d4-8d52-c9b14a248496,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 40 Bagnatica,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0101,1.82,0.555,0.0,n/a,n/a
+aa75ae18-59e7-4bad-b535-89c0613ac2d4,NC-S120STH Montreal,2016-01-01,2023-01-01,127.0,n/a,n/a,n/a,,,3.61,0.281,-36.9,n/a,n/a
+aac95c86-c01d-4a0d-9775-792b95214af1,Calcium sulphate panels for raised floor with various finishings: PG6AVS,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.262000933701,0.0,0.650810462555,-0.006742295666,n/a,n/a
+aad96e14-8215-4afd-9461-9d3ca6738346,Spatulated coatings: 1.5 ACRILICO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+ab3bd5e2-81ad-4065-83a7-3b9985bc0c82,Cemento di Caravate,2021-01-01,2027-01-01,158.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+ab94ee43-ccfa-4c66-9412-e9ff92248256,VERNICI TRASPIRPAINT,2017-01-01,2024-01-01,10.1,n/a,n/a,n/a,,,,,,n/a,n/a
+ac0690ec-2207-411b-be77-2e9c78006a47,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 6 bush-hammering and cut to size in thickness 3 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+ac9157d0-f5ca-4d1b-b697-6817e55c0a5e,NEWPLAN 60R prefinished roof element (transmittance U=0.22 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.091592981262,4.688757161262,2.639545341815,1.185550107721,-20.160489158242,n/a,n/a
+ad167137-0076-4e59-8bfe-8d281cc722db,BasalTop® 297SX,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.898386021967,2.005377089814,10.638583361329,11.001170810067,-10.853109659778,n/a,n/a
+ad878d30-e403-4bfb-8895-65285fc47c81,Ready-mixed concrete mixtures: Drainbeton DB30C4D08S2,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,9.8889166,3.3887031,0.18950394,-7.3753219,n/a,n/a
+adc69831-c3ef-4e0d-ac9d-86bf2741f5fb,VASCA B16 ,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.00334,0.004,0.0,-0.00672,n/a,n/a
+ae723698-b461-4d36-88cc-12a955a0d816,EUROBATEX® in pipe sections or coils,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.21332295716,0.0,5.596003123745,-0.832894387948,n/a,n/a
+ae821198-624d-46f4-a5b3-0a72d25a292a,CLIMABLOCK CK20AE060,2018-01-01,2026-01-01,18.6429722,n/a,n/a,n/a,,,,,,n/a,n/a
+aea0381d-ca2f-4c34-9e83-811bc735de8d,"Extreme section – PVC window 1,23m x 1,48m: PVC Aluminium sheet - Triple Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.684002596,6.124732222,3.24074654,-27.6320399,n/a,n/a
+aee5f575-5ef0-4edf-bb3d-422b33134d1d,Calcium sulphate panels for raised floor with various finishings: PG6AML,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.270910501977,0.0,0.672941830383,-0.006742295667,n/a,n/a
+af126bb2-31b7-42cc-9373-89b8b244fc22,"CEMENTI IN SACCO E/O SFUSI: CEM II/A-ll 42,5 R Ternate",2019-01-01,2026-01-01,648.0,n/a,n/a,n/a,,,,,,n/a,n/a
+af40e25f-e104-43a5-88c8-5657a6f3d596,"Air, wind and water barrier membranes and Vapor control layers: VAPOR IN GREEN 200",2021-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+b03b41bf-8e8b-49bb-a0a9-f317f289bc39,Calcium sulphate panels for raised floor with various finishings: PG5AMH,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.343167510217,0.0,0.852428282389,-0.006742295663,n/a,n/a
+b06369e2-1f1e-4b88-954f-608935f51d55,Conglomerati bituminosi: Tappeto,2020-01-01,2027-01-01,42.6,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+b0e23f4e-96fb-44a3-9d76-0ae53af23114,"In Alpha section – PVC window 1,23m x 1,48m: PVC aluminium Sheet - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.563641307,5.184547227,2.789578434,-26.73216823,n/a,n/a
+b213ff8c-5719-45b4-b876-93227482c921,"Polymer Bitumen Waterproofing Membranes: ASSO MINERALE 4,5 PL CLASSIC",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.038100171342,0.038475852561,0.0,-0.167386529079,n/a,n/a
+b22f50f0-911f-4094-9efc-8e3c3f1f7b7a,"CEM I 52,5 R SuperB",2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+b2891dde-2a8c-44af-8785-0449327c7e9b,EUROBATEX® flat sheets or rolls,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.187920978195,0.0,4.929644680498,-0.733715349718,n/a,n/a
+b2ab4c65-1ded-4f22-818a-fd21ca3e537f,"EUROBATEX® pipe slit, SELF-ADHESIVE on one side (AD1)",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.217795136556,0.0,5.713319751077,-0.850355486228,n/a,n/a
+b2b563b4-85c3-48b7-b1e5-80a34476ca53,Triplus®,2019-01-01,2026-01-01,,n/a,n/a,n/a,0.284,0.746,9.63,1.33,-5.8,n/a,n/a
+b2efce38-6ef2-4fa6-b90d-5e9444b5a13e,Cemento di Caravate,2021-01-01,2027-01-01,284.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+b3aa2508-eb44-4f95-b38a-f7936b8a2c95,Cemento di Caravate,2021-01-01,2027-01-01,205.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+b4c77323-28d4-4444-b072-0572ed67be1e,METRA SLIDING WINDOWS SYSTEMS: NC-S150HES,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.802,1.39,5.18,0.36,-38.4,n/a,n/a
+b4db139c-284d-4d8d-b15e-ef8799305a25,Metal ceilings: open cells JOLLY B10,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.010047047483,1.856707348808,0.0,-16.139712005848,n/a,n/a
+b4e9eb25-9deb-40be-a4f0-25e2124ca4c3,Porcelain stoneware ceramic tiles and slabs0038,2016-01-01,2023-01-01,12.1,n/a,n/a,n/a,,0.0477,0.0462,0.125,-0.224,n/a,n/a
+b4ffbd6a-9b4c-44ee-9159-6d99a9f80f96,Polyisocyanurate Sandwich Panels (PIR) with grooved aluminium coating: UNIKO.22 AL thickness 120 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.017023858912,2.275822899042,0.0,0.044662081761,0.0,n/a,n/a
+b501868a-cd90-4f87-a9a1-ec79cc482879,"Shower enclosures: Young 1BS, 90 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.421114005299,0.0,0.294650631721,-3.494585552319,n/a,n/a
+b52f2b39-c91a-46e9-96ad-a99625e7143f,DIVINYCELL IPN GRADES 0113,2019-01-01,2025-01-01,7.13,n/a,n/a,n/a,,,,,,n/a,n/a
+b59e3d8b-32fd-4489-82e5-5854434b23d7,METRA WINDOWS SYSTEMS: NC90HES WS,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.846,1.47,9.02,0.362,-36.5,n/a,n/a
+b6c6450d-3935-45e9-9d42-d15a3d2cb289,"CEM IV/A(P) 42,5 N-SR",2019-01-01,2025-01-01,738.0,n/a,n/a,n/a,,,,,,n/a,n/a
+b81148bb-a5f8-4fd2-9617-2179d44ec4f8,Isoparfire elegant Adriarock FN: A8-A8,2019-01-01,2026-01-01,57.82,n/a,n/a,n/a,,,,,,n/a,n/a
+b85c0c01-d0f3-46b9-90fd-6e39d0466e92,Calcium sulphate panels for raised floor with various finishings: PG6A0RA,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.233567055953,0.0,0.580180690585,-0.006742295671,n/a,n/a
+b8664489-69c9-4cc0-8e1d-7c7298e9ade2,SISTEMA A CAPPOTTO IN POLISTIRENE,2017-01-01,2024-01-01,66.7,n/a,n/a,n/a,,,,,,n/a,n/a
+b8ac1858-259a-497c-b922-8b23a85ee102,Calcium sulphate panels for raised floor with various finishings: PG3AMP,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.250832005471,0.0,0.623066833985,-0.006742295679,n/a,n/a
+b9d79ab1-09f4-4b55-935f-31ffb76daa5d,RÖFIX EPS-F 031 GREY,2019-01-01,2025-01-01,260.0,n/a,n/a,n/a,,0.0027,1.58,0.0,-0.212,n/a,n/a
+ba1a1e6c-ab83-4cbe-8d86-d83c3ff7683e,"Cementi al calcare NOVICEM 52,5 R",2018-01-01,2024-01-01,1350.0,n/a,n/a,n/a,,,,,,n/a,n/a
+ba47d857-6b81-4ce8-9629-367a5692f7f0,Isopar HP Adriawall HP A05-A04,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+bac0c797-4bd0-4082-abd3-ce1f5a8d9dbf,CEMENTED MIX produced by NUOVA DEMI: MC 2% Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.00426,1.82,0.234,0.0,n/a,n/a
+bac9914d-2216-427f-bf0c-1db7e81e7cb4,"CEM I 42,5 R CE NF- Cemento Portland EPD0151",2019-01-01,2026-01-01,906.0,n/a,n/a,n/a,,,,,,n/a,n/a
+bae3b263-bb65-4228-ac5d-8b1bad225bbb,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 4 micro-sandblasting and cut to size in thickness 2 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+bc344dda-12c4-4512-ad73-5429c1885a3e,Porcelain stoneware ceramic tiles and slabs0035,2016-01-01,2023-01-01,12.0,n/a,n/a,n/a,,0.0525,0.0508,0.137,-0.248,n/a,n/a
+bc54b3e5-d630-4458-b5f4-df40a4fa3405,Cemento di Caravate,2020-01-01,2026-01-01,547.0,n/a,n/a,n/a,,,,,,n/a,n/a
+bc95e0a4-5b62-4421-a5d0-7a61a008cae0,Calcestruzzo preconfezionato - EL40002 - Techbau SpA - Cantiere Polo Logistico Teddy - Gatteo (FC),2018-01-01,2024-01-01,393.0,n/a,n/a,n/a,,,,,,n/a,n/a
+bde97798-9028-42ba-af73-94f85bcb458a,Metal ceilings: structures DOCKING CORRIDOR,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.011657909922,1.080860524499,0.0,-6.246023376791,n/a,n/a
+be11b5bb-2fc1-4f64-aaa3-80ba768fc3cf,Cemento di Caravate,2020-01-01,2026-01-01,891.0,n/a,n/a,n/a,,,,,,n/a,n/a
+be2b28e1-f76c-46c0-8d33-346220447ac9,Pannelli in solfato di calcio per pavimenti sopraelevati KAP,2018-01-01,2025-01-01,13.94,n/a,n/a,n/a,,,,,,n/a,n/a
+be307c3e-f359-46d7-95b2-9e04c9e63c8d,Linear and special prefabricated concrete elements: 18 Pilastro 70x70,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437200196302,21.720217669232,31.812347396702,1.718622962575,-61.709775444996,n/a,n/a
+be4a918c-1d93-4dc0-bf3c-23794624db38,Pavimenti in legno Collezione Garbelotto SP12,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+be6f1a45-0fc3-4f8c-9a29-ae7b4043786f,Calcium sulphate panels for raised floor with various finishings: PG3AVM,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.270057912538,0.0,0.670823996141,-0.006742295668,n/a,n/a
+bee95546-c447-475c-a9b7-2886d822a3c3,NEWPLAN 60R prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.091592981262,4.688757161262,2.634361928305,0.28693281563,-19.45052842724,n/a,n/a
+bf1843f5-44d9-4cf3-9fb1-9245461464d4,Spatulated coatings: 1.2 ACRIL-SILOSSANICO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+bf25df94-22e7-4ad5-9fe7-73aefc1901f8,Metal ceilings: aluminium panels and systems,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.008529302055,1.57622602794,2.4018495e-05,-13.02852493703,n/a,n/a
+bfb081f3-0a30-4886-8a89-4a16037b761b,Aggregato artificiale IPERGRIP,2019-01-01,2025-01-01,,n/a,n/a,n/a,0.18,2.64,0.54,7.94,-3.64,n/a,n/a
+c019ef33-947c-4d2d-b2a3-1dcf234dd409,Calcium sulphate panels for raised floor with various finishings: PG6AMM,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.25658698904,0.0,0.637362215118,-0.006742295668,n/a,n/a
+c0762978-bd99-4059-a71b-d565104724cd,Miscele di calcestruzzo riciclato: Rck C30/37,2019-01-01,2027-01-01,291.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+c0ac680c-08c8-4d06-ab29-bf3a6d0820d5,Isoparfire Adriawall Rock A08-A08,2019-01-01,2026-01-01,51.3,n/a,n/a,n/a,,,,,,n/a,n/a
+c0c1f25f-fbd5-4229-a178-a32846df08df,CLIMABLOCK CK25LI120,2018-01-01,2026-01-01,29.8422961,n/a,n/a,n/a,,,,,,n/a,n/a
+c132acef-d8c6-42e8-9651-f38dc7a3bc61,Calcium sulphate panels for raised floor with various finishings: PG6A0H_K,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.251556706728,0.0,0.624866993091,-0.006742295668,n/a,n/a
+c1599e24-8fd4-4187-8753-d02e003a0441,GRANELLA® ,2020-01-01,2025-01-01,155.5,n/a,n/a,n/a,,,,,,n/a,n/a
+c1a9158c-d3a9-41f5-b7c2-5fe454e4f014,CERAMIC TILES - Fiorano Emilia,2018-01-01,2025-01-01,11.7,n/a,n/a,n/a,,0.103,0.0506,0.128,-0.0467,n/a,n/a
+c1bc4143-5978-4222-b5fa-d63faef5a2c4,Calcium sulphate panels for raised floor with various finishings: PG6AVH_K,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.266093367758,0.0,0.660976066916,-0.006742295666,n/a,n/a
+c1d488cf-ed00-4d71-a6e2-d9a4f90813d3,RÖFIX EPS-F 035,2019-01-01,2025-01-01,342.0,n/a,n/a,n/a,,0.00356,2.08,0.0,-0.254,n/a,n/a
+c2819dc9-26dc-4a8e-a544-385089ae746e,ROLLER SHUTTERS PVC: Sole 5,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,2.57e-08,-1.28,0.795,-14.7,n/a,n/a
+c28a68a2-da0f-4f48-ab22-0565064b6618,VERNICI MASTERCOLOR SUPER,2017-01-01,2024-01-01,7.93,n/a,n/a,n/a,,,,,,n/a,n/a
+c2a55130-321d-4bc3-84e2-ab5aadc0246f,Blocchi per murature in laterizio SL 126,2016-01-01,2024-01-01,0.209,n/a,n/a,n/a,,,,,,n/a,n/a
+c2ba0422-e403-46db-a22b-e47d64ecc785,Metal ceilings: structures PERIMETRALI,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.001014538036,0.094062668225,0.0,-0.543564698037,n/a,n/a
+c2dfd632-47cd-4f8d-aeb7-a66dddc24b09,Pannelli in solfato di calcio per pavimenti sopraelevati KFG,2018-01-01,2025-01-01,17.18,n/a,n/a,n/a,,,,,,n/a,n/a
+c2fc607e-32a2-4673-8d37-42c386ed8df8,CLIMABLOCK CK20AE090,2018-01-01,2026-01-01,22.5389301,n/a,n/a,n/a,,,,,,n/a,n/a
+c3571741-18a8-4518-bc67-e5bbbcaa66e8,EUROBATEX®,2018-01-01,2025-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+c38466bd-b187-4349-a9a4-385885fd165e,RÖFIX EPS-P BASE,2019-01-01,2025-01-01,346.0,n/a,n/a,n/a,,0.0045,2.63,0.0,-0.327,n/a,n/a
+c3c91642-d87e-485a-bc63-a9d1fc326f55,"Extreme section – PVC window 1,23m x 1,48m: White PVC - Double Glazing",2023-01-01,2025-01-01,,n/a,n/a,n/a,0.003686541,0.562329908,5.802675946,3.269414134,-13.28687484,n/a,n/a
+c46f3c6d-bc8b-4ce9-a961-b246b05b8e55,Reinforced concrete road safety barriers New Jersey profile: NJM62T620,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,92.29,30.28,0.82,-217.09,n/a,n/a
+c545416b-eac5-4ff5-9565-4e2737888a74,Masselli autobloccanti per pavimentazione esterne serie Design 0105,2018-01-01,2025-01-01,123.0,n/a,n/a,n/a,,,,,,n/a,n/a
+c551f745-4f9b-4218-9081-0f8fce801794,VASCA F16 ,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.00334,0.004,0.0,-0.00672,n/a,n/a
+c57b6a42-4c3c-46eb-9c60-1e3cb17b367b,Porcelain stoneware Ceramic tiles and slabs0034,2016-01-01,2023-01-01,9.6,n/a,n/a,n/a,,0.0527,0.051,0.138,-0.225,n/a,n/a
+c5eba919-916a-4494-b270-0bb1516ee938,LEGANTI IN SACCO E/O SFUSI INTOCEM,2019-01-01,2026-01-01,341.0,n/a,n/a,n/a,,,,,,n/a,n/a
+c60dabaa-0fb4-471e-815a-887eb1d5182c,IT-FLEX C1 self-adhesive sheets in roll,2023-01-01,2028-01-01,,n/a,n/a,n/a,,0.184209069119,0.0,4.832271878807,-0.719222645872,n/a,n/a
+c749dc16-a727-433d-97cb-57262dd5d87a,CERAMIC TILES - Casiglie,2017-01-01,2024-01-01,15.5,n/a,n/a,n/a,,0.122,0.0601,0.162,-0.0936,n/a,n/a
+c7520a8b-97de-4d43-9413-9bbb0bf1c6a9,Aluminium profiles for doors and windows – series: CX700HP  CX70.415,2021-01-01,2026-01-01,6.7612,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9708,n/a,n/a
+c800ae1d-c57f-44f7-b512-08662795fd9b,"CEMENTED MIX produced by NUOVA DEMI: EKOSGROUND 0,1% Brembate",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.282,0.00426,1.82,0.234,0.0,n/a,n/a
+c84a5bf0-602a-4e17-ba5d-f1f01958cd44,Ready-mixed concrete mixtures: Multibeton R37C4D31S5XC3/XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.581333,3.9838833,0.22364686,-8.6433019,n/a,n/a
+c89b0977-bb33-4d92-be7e-98d93e8e6d0c,Calcestruzzo,2016-01-01,2022-01-01,1030.0,n/a,n/a,n/a,,,,,,2300.0,n/a
+c8d83958-5741-4530-ad7e-e8f74a34a9f0,Calcium sulphate panels for raised floor with various finishings: PG6AMS,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.248530010353,0.0,0.617348681532,-0.006742295666,n/a,n/a
+c90455f5-118d-43fe-bb77-34c514f37587,XYLOFON: HIGH-PERFORMANCE RESILIENT SOUNDPROOFING PROFILE (shore90),2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0832,0.203,5.77,0.33,-2.69,n/a,n/a
+c96849b4-b8dc-4e31-b3cf-f56178a87008,3x3m Wood Wall / double glass,2023-01-01,2028-01-01,,n/a,n/a,n/a,14.987910802085,84.620112086159,27.559840861145,10.534077146068,-17.688800586788,n/a,n/a
+c9c21a0b-5837-4ad3-84fd-51dbd1deeac1,METRA SLIDING WINDOWS SYSTEMS: NC-S120STH SLIM,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.822,1.42,6.92,0.404,-32.5,n/a,n/a
+c9d50fd5-f7e6-4927-9618-a6b0364ec005,Calcium sulphate panels for raised floor with various finishings: PG3AV0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.247165867931,0.0,0.613960146745,-0.006742295667,n/a,n/a
+c9ed2638-4373-4896-ac6a-11b2ac3c4645,Calcium sulphate panels for raised floor with various finishings: PG9AMV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+c9f20ee6-7c19-4f33-9905-5a0a24c78382,Materiali inerti naturali: ghiaia in sacchetti,2020-01-01,2026-01-01,20.9,n/a,n/a,n/a,,,,,,n/a,n/a
+ca0673fd-5747-453a-a203-05c7d31d3868,Rivestimento in Pietra Serena di Fiorenzuola con superficie sabbiata con bordi rifilati (spessore 3 cm),2017-01-01,2024-01-01,65.4,n/a,n/a,n/a,,,,,,n/a,n/a
+ca2c18d6-e33d-497e-abc8-4235c8d187ee,Calcium sulphate panels for raised floor with various finishings: PG3AMG,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.2702284296,0.0,0.67124756299,-0.006742295668,n/a,n/a
+ca7509a6-0ff3-470f-8631-ee50d180e229,Polymer Bitumen Waterproofing Membranes: ASSO 4 PL CLASSIC,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.035728568511,0.036080864884,0.0,-0.155262718584,n/a,n/a
+cab0f2d9-3667-4c6d-9466-e2ed0b71cbb7,"Prefabricated concrete panels: 06 Pannelli ""EL"" al sp 25",2023-01-01,2028-01-01,,n/a,n/a,n/a,34.672064884565,112.537090920975,4.180307370475,0.281079025783,-8.069014488951,n/a,n/a
+caf7c562-5dc5-4a05-a430-774cc4943797,Calcium sulphate panels for raised floor with various finishings: PG3AM0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.233694944463,0.0,0.580498365722,-0.006742295667,n/a,n/a
+cb812b05-bb2b-4725-bb68-f9d45f32ca49,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 1 honing and cut to size in thickness 2 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+cc7cea37-47db-4ee4-9501-fa04cf7b22b4,"CLS RCK20 S4 X0 D25 CEM IV 32,5 N",2018-01-01,2025-01-01,165.0,n/a,n/a,n/a,,,,,,n/a,n/a
+ccb05507-a2f4-4bb8-a14d-ea325e453f53,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 30 Bagnatica,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0101,1.82,0.555,0.0,n/a,n/a
+ccf3c4c7-4a40-40d4-ba1e-70e12b3a130f,"Linear and special prefabricated concrete elements: 16 Trave a ""I"" H120 filante",2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437252304674,21.91682308779,32.57008398241,1.728711315395,-63.160706960173,n/a,n/a
+cd474b87-5ba1-4265-8f32-a3bf602f9ce6,ANTA TAMBURATA PER PORTE DA INTERNO LUCIDA 800x2100 mm,2017-01-01,2024-01-01,88.3,n/a,n/a,n/a,,,,,,n/a,n/a
+cd5810a4-18f5-4144-8a5c-06d08a91c896,"CEMENTO PORTLAND TIPO I 52,5 R",2020-01-01,2026-01-01,836.0,n/a,n/a,n/a,,,,,,n/a,n/a
+cd7a284b-4c89-434b-b432-70c8e4d04a27,Aluminium profiles for doors and windows – series: SX110  SX11.203,2021-01-01,2026-01-01,7.3922,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.8925,n/a,n/a
+cdd3b517-02ca-4edf-968d-1c305a121e97,Sanitary ceramic products: bidets and WCs (in VC),2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,4.52,6.91,1.58,-4.75,n/a,n/a
+cdd477bb-876d-4fe0-8ebc-86db6a592150,"DOLOMITIC MONOGENIC BRECCIA CLADDING cladding slab filled, 3 micro-bush-hammering and cut to size in thickness 2 cm",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.398,8.15,6.32,1.58,-8.15,n/a,n/a
+ce0dbd5e-f398-4eda-a837-7e1de57279d0,Spatulated coatings: 1.2 ACRILICO BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+ce6e4f48-6c2a-41c6-abb2-2d2f9a23085e,"CEM II B-LL 32,5 R - Cemento Portland al calcare EPD0149",2019-01-01,2026-01-01,652.0,n/a,n/a,n/a,,,,,,n/a,n/a
+cebf7e27-b5b6-45e0-8564-89a08c41b4a7,Aluminium profiles for doors and windows – series: HX160  HX16.109,2021-01-01,2026-01-01,6.8742,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9568,n/a,n/a
+ceda4a44-e25b-4a94-b67f-47bb9fd59a01,Cemento di Caravate,2021-01-01,2027-01-01,,n/a,n/a,n/a,0.0,4.85,6.91,47.0,-17.7,n/a,n/a
+cef99749-e103-41e7-ae39-c54b5a40a847,Pavimentazione modulare AS-CHAIN304R,2020-01-01,2027-01-01,12.0,n/a,n/a,n/a,,0.0699,3.73,0.174,,n/a,n/a
+cf165ffd-c995-4201-b731-d2036521d293,Water-based paints: DECORPAINT SILVER BIANCO,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.00831,0.0,0.0054,0.0,n/a,n/a
+cf188191-7c06-49a8-a7f9-39c1c8aac292,"Aliant 1 BC 19,10m Klima Plus",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,233.123401470204,248.504780773548,170.793595404749,-552.376452928645,n/a,n/a
+cf1ee86c-4431-4610-9467-225c83c33f7c,"Concrete EB2004 – Pizio SpA – Cantiere Cormano, Via Bizzozero",2022-01-01,2027-01-01,215.0,n/a,n/a,n/a,,,,,,n/a,n/a
+cf5b25d2-556b-4c42-9dd0-d80809dbd13c,Cemento di Caravate,2021-01-01,2027-01-01,292.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+cfaf5958-e686-4cf4-8b09-d224cecd0340,Conglomerati bituminosi: Binder,2020-01-01,2027-01-01,40.9,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+cfd6ed28-e2a4-4933-95d2-8ab88d6e4d31,Isopar HP Adriawall HP A05-A05,2019-01-01,2026-01-01,0.112,n/a,n/a,n/a,,,,,,n/a,n/a
+d0396f5e-3c15-4788-be88-e37ec2dd2bce,"Cementi al calcare CERTOCEM 42,5 R",2018-01-01,2024-01-01,942.0,n/a,n/a,n/a,,,,,,n/a,n/a
+d097a678-8931-47d0-8c30-9029d7199486,"INFILL PANELS: Thermal break panel (U=0.26 Wm2K), with concrete finish, th. cm 30, L=cm 1200",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.128447906396,4.599746062558,4.116843539779,4.32591897469,-9.772132251218,n/a,n/a
+d1c1ba83-56cc-46f0-a671-92c3f17124c4,PROFILATI ZINCATI,2020-01-01,2026-01-01,1028.0,n/a,n/a,n/a,,,,,,n/a,n/a
+d20a9283-e69f-4d85-969d-bc8b4f5c95ec,CAST-IN ANCHOR CHANNEL SYSTEMS: GP Seismic,2020-01-01,2026-01-01,8.17,n/a,n/a,n/a,,,0.0,0.0,-2.16,n/a,n/a
+d221c3be-8b75-4ffc-8a3b-19c3ad8d8e1c,Isopar elegant Adriawall FN: A06-A05,2019-01-01,2026-01-01,51.82,n/a,n/a,n/a,,,,,,n/a,n/a
+d24b6af0-8c8f-4289-845e-ac2b5ec52cfe,ROLLER SHUTTERS PVC: Genova,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,3.57e-09,-0.185,0.0191,-2.71,n/a,n/a
+d34fceff-a405-43f8-a8d1-fa57894e79d7,Isopar elegant Adriawall FN: A05-A04,2019-01-01,2026-01-01,47.81,n/a,n/a,n/a,,,,,,n/a,n/a
+d532ecbd-39d4-4e0d-9f88-5d92146a1f95,LIGHTWEIGHT EXPANDED CLAY STRUCTURAL AGGREGATE,2016-01-01,2023-01-01,88.9,n/a,n/a,n/a,,,,,,n/a,n/a
+d594337e-1ffb-40d8-a327-21cf54245ed0,Blocchi per murature in laterizio SL 125,2016-01-01,2024-01-01,0.209,n/a,n/a,n/a,,,,,,n/a,n/a
+d60b16f1-5fc2-489b-bb86-7ea4da3933be,"RIVESTIMENTI MURALI (SPATOLATO, SPATOLINO EXTRA, SPATOLATO V1, SPATOLATO S1, SPATOLATO S1 TOP, SPATOLATO K1)",2017-01-01,2024-01-01,12.5,n/a,n/a,n/a,,,,,,n/a,n/a
+d6517679-3a12-4d20-84d0-13c381313ec3,Cemento di Caravate,2020-01-01,2027-01-01,,n/a,n/a,n/a,8.67,22.4,5.46,2.13,-3.58,n/a,n/a
+d70a6eec-07c6-4857-9fc6-6fc3275c06dc,Pannelli in solfato di calcio per pavimenti sopraelevati KFD,2018-01-01,2025-01-01,13.24,n/a,n/a,n/a,,,,,,n/a,n/a
+d7c350b2-43c6-44cf-a84f-cda72f64bb8a,Calcium sulphate panels for raised floor with various finishings: PG6AMV,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+d8abec49-e218-447a-b8b0-ee3c659fb15a,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR WELD EVO 360",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00422,0.0105,0.0401,0.0257,-0.0753,n/a,n/a
+d8b87648-5371-4c0c-a697-6699c58ed2d2,ACCIAI LAMINATI A CALDO: TONDO IN ROTOLI,2020-01-01,2025-01-01,,n/a,n/a,n/a,6.4,16.7,1.7,1.0,-716.5,n/a,n/a
+d8ef3ee1-0632-46bf-9e54-3832325e2973,Materiali inerti naturali: sabbia essiccata in sacchetti,2020-01-01,2026-01-01,39.6,n/a,n/a,n/a,,,,,,n/a,n/a
+d905ec51-0e4f-49d1-99bb-08e0c802bd4e,"Aliant 1 C 17,58m Klima Max",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.992193740338,215.477009151765,228.167137875873,151.113092161038,-535.991144754038,n/a,n/a
+da31824b-6b0c-4f7b-89f2-cda8f8b2ccdd,Calcium sulphate panels for raised floor with various finishings: PG6AMG,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.2702284296,0.0,0.67124756299,-0.006742295668,n/a,n/a
+dab26568-b7e4-4238-b010-dcbc90a2088a,Self locking blocks for external pavements: DESIGN,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.21,8.39,0.0,1.58,-1.98,n/a,n/a
+dace2ae5-0037-4268-8d57-2c8c2ff6be56,Reinforced concrete road safety barriers New Jersey profile: NJV50A600-ABESCA,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,91.1,29.89,0.79,-156.67,n/a,n/a
+dad7a9f8-7899-4b52-a853-04f88124e96c,Eurocinque HP Adriaroof HP L07-L05,2019-01-01,2026-01-01,71.8,n/a,n/a,n/a,,,,,,n/a,n/a
+daf4cd78-6a07-4700-9661-0fa3f0180686,Isopar elegant Adriawall FN: A06-A06,2019-01-01,2026-01-01,53.79,n/a,n/a,n/a,,,,,,n/a,n/a
+db65fc65-1ada-4366-af71-aa7e05ae6bb9,Isopar elegant HP Adriawall HP FN: A06-A05,2019-01-01,2026-01-01,53.53,n/a,n/a,n/a,,,,,,n/a,n/a
+dba32937-a377-4404-8db8-73c4c07378d6,Cemento di Caravate,2021-01-01,2027-01-01,275.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+dbd0000a-1196-43fc-97b0-ac1d5a8792c8,Eurofire Adriaroof Rock A08-A08,2019-01-01,2026-01-01,55.8,n/a,n/a,n/a,,,,,,n/a,n/a
+dc45589a-45b7-4c92-89d1-768290139d0f,Polyisocyanurate Sandwich Panels (PIR) with Multilayer paper/aluminium coating: UNIKO.22 thickness 120 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.017639081751,2.358068512822,0.0,0.046276117485,0.0,n/a,n/a
+dc5c309f-ca45-4961-9dac-e555b9d1cff1,Calcium sulphate panels for raised floor with various finishings: PG6AMW,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.260764679923,0.0,0.647739602904,-0.006742295656,n/a,n/a
+dc900061-388c-40c7-8f70-54c2d7d2da20,"Air, wind and water barrier membranes and Vapor control layers: CLIMA CONTROL NET 160",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00208,0.0052,0.0658,0.0143,-0.0765,n/a,n/a
+dcbe2b6d-1230-4b27-9d21-3cc0b411bd12,ROLLER SHUTTERS ALUMINIUM: Duero 55,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,1.04e-07,-0.0354,0.488,-0.349,n/a,n/a
+dd6752ca-2b46-4955-b433-f6af0436247c,Cemento di Caravate,2021-01-01,2027-01-01,,n/a,n/a,n/a,0.0,4.85,6.91,47.0,-17.7,n/a,n/a
+dddd4cdf-d794-41f0-b8ad-9a25beeb4dba,PANNELLI PREFABBRICATI: pannello 20 Aprilia,2020-01-01,2027-01-01,91.4,n/a,n/a,n/a,0.261,1.05,1.81,0.595,-4.61,n/a,n/a
+ddececfa-ff2e-4d78-865c-b75cb3202948,Aluminium profiles for doors and windows – series: CX700AS  CX70.170,2021-01-01,2026-01-01,7.2647,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9083,n/a,n/a
+de3ff561-81f2-4df8-9a83-07cbddbbe17d,METRA FLEX INTERNAL DOOR,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.491,0.85,2.6,0.173,-29.2,n/a,n/a
+de73bcbb-3e79-4ce3-9dfe-6f3194203941,Eurocinque HP Adriaroof HP A05-A05,2019-01-01,2026-01-01,43.6,n/a,n/a,n/a,,,,,,n/a,n/a
+df2b6201-6338-4608-9614-fa38ae7e8e5d,HOT-ROLLED REINFORCING STEEL FOR CONCRETE IN BARS AND COILS,2019-01-01,2025-01-01,,n/a,n/a,n/a,38.1,24.4,2.03,0.733,-1120.0,n/a,n/a
+df56aaa9-f453-4b2e-a512-fb00cf8af030,METRA WINDOWS SYSTEMS: NC65HES WX,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.835,1.45,4.51,0.367,-36.0,n/a,n/a
+df9576e2-f8fd-4274-b5a3-b5f265172213,"CEM II/B-LL 32,5 R",2023-01-01,2028-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+dfdc2210-1300-42c5-b9ea-321134e75875,ECO-ESPANSO K120,2019-01-01,2025-01-01,391.0,n/a,n/a,n/a,,0.00405,2.37,0.0,-0.268,n/a,n/a
+e04cc38b-fa30-49c0-b898-f1684207d87d,Eurocinque HP Adriaroof HP A04-A04,2019-01-01,2026-01-01,39.38,n/a,n/a,n/a,,,,,,n/a,n/a
+e0bf4c75-3c03-49ef-82b5-186900efb5da,"CEM I 52,5 R - Cemento Portland",2019-01-01,2026-01-01,952.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e0bf4f89-8531-4f2e-a8ee-cc5818448892,Panel KlimaWall® 30 REI 120 Plus (1m²),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.789002778967,9.396284704218,5.756598843018,2.933416712212,-14.619232961612,n/a,n/a
+e0dd471b-0f65-4274-a696-d3d46f47eaa3,Blocchi per murature in laterizio SL 100,2016-01-01,2024-01-01,0.195,n/a,n/a,n/a,,,,,,n/a,n/a
+e1a4c662-1451-46b1-ba15-9d42e964336e,Repair mortars: CP1,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,6.91,0.0,5.38,0.0,n/a,n/a
+e26ba6b2-128f-498e-82b3-9b055420d81e,Prefabricated concrete panels: 02 Pan all sp 25,2023-01-01,2028-01-01,,n/a,n/a,n/a,34.668015674646,110.80623672778,4.147553355662,0.276417186875,-8.007468269715,n/a,n/a
+e2e1e01e-5863-4e37-a3f4-9b45ad5a6338,ANTA TAMBURATA PER PORTE DA INTERNO GREZZA 900x2400 mm,2017-01-01,2024-01-01,86.9,n/a,n/a,n/a,,,,,,n/a,n/a
+e359c23d-41b9-4dac-8ee4-3b8b755f0ff3,"DryCrystal RCK37 XC4 S4 D25 CEM IV 32,5 N",2018-01-01,2025-01-01,276.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e43ef8dd-22cd-4e21-98af-af822d31b01b,Eurocinque Adriaroof A05-A05,2019-01-01,2026-01-01,38.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e4422e63-edfb-4111-ad1c-c5db0dada71b,Prodotti Segati,2017-01-01,2025-01-01,117.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e495ecd8-6f68-4835-86f9-5c50f0b29507,METRA SLIDING WINDOWS SYSTEMS: NC-S175HES LUX,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.857,1.48,4.07,0.404,-37.6,n/a,n/a
+e4a840f6-122d-4928-979e-da7f9d41f760,Self-locking pavers for external flooring to the ELITE series,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.923,0.0,0.325,0.0,n/a,n/a
+e561d8d9-99a9-46a6-a731-1b7cd942ddb1,Reinforced concrete road safety barriers New Jersey profile: NJV50D600-1,2024-01-01,2028-01-01,,n/a,n/a,n/a,0.0,88.81,29.14,0.73,-40.89,n/a,n/a
+e6105020-8bfa-4a83-8be5-12408f6cc087,Linear and special prefabricated concrete elements: 14 Trave rettangolare B50 H70,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437246288606,21.886864166867,32.294006224526,1.728711315395,-62.613715547655,n/a,n/a
+e63c3828-efcd-440b-a39a-557028996d58,Calcium sulphate panels for raised floor with various finishings: PG6AR0,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.259997348618,0.0,0.645833552086,-0.006742295669,n/a,n/a
+e644d914-666e-41b6-b3ca-1b644103fbb5,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 30 Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0104,1.82,0.573,0.0,n/a,n/a
+e656bfbc-8eca-436c-ba0c-7c29525a85ea,"Cementi al calcare CERTOCEM 32,5 R ",2018-01-01,2024-01-01,874.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e6787968-a234-48e9-9854-2de38af98520,"CEM I 52,5 R - Cemento Portland EPD0149",2019-01-01,2026-01-01,917.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e678e9be-0558-47b5-8b8d-53b08763cbe5,Pavimenti in legno Collezione Garbelotto SP14,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+e70091f8-d737-4570-b7e5-954e7a717a12,Inerti tondi e frantumati,2020-01-01,2027-01-01,4.48,n/a,n/a,n/a,,,,,,n/a,n/a
+e724f9ac-7ae4-4472-8bd6-2fb3d05fbc54,"Shower enclosures: Kuadra 2.0 2PH, 120x80 cm",2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.459248497063,0.0,0.053985557387,-3.166695793696,n/a,n/a
+e725af3c-7447-4797-be3a-42443bc51977,Calcium sulphate panels for raised floor with various finishings: PG3AML,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.270910501977,0.0,0.672941830383,-0.006742295667,n/a,n/a
+e738a4e6-3b9d-4177-a80c-da171f47b391,PORCELAIN STONEWARE SLABS 0177,2019-01-01,2026-01-01,10.8,n/a,n/a,n/a,0.0,0.0899,0.0439,0.111,-0.0406,n/a,n/a
+e7738340-8b4a-4131-9809-30e1eb1fe2e7,"CEM IV A(V) 42,5 R-SR - Cemento pozzolanico resistente ai solfati EPD0151",2019-01-01,2026-01-01,18.0,n/a,n/a,n/a,,,,,,n/a,n/a
+e79a431f-5af4-4a85-a9f1-deadbdb5565b,Aluminium profiles for doors and windows – series: CX850PH  CX85.415,2021-01-01,2026-01-01,7.0447,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9356,n/a,n/a
+e7f0d096-48a8-49fe-98dd-86bb092fc751,Calcium sulphate panels for raised floor with various finishings: PG6A00,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.231904505126,0.0,0.576050913813,-0.006742295675,n/a,n/a
+e800048f-2c53-40fd-9b44-9f701edb41b5,Industrial locks Fidelity®,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,1.05,6.52,1.91,-104.0,n/a,n/a
+e8319335-5a91-441d-9082-dd00776aef6c,KLIMA AIRTECH di Kerakoll Spa,2015-01-01,2023-01-01,55.7,n/a,n/a,n/a,,0.107,62.8,0.0,-7.37,n/a,n/a
+e8f145ed-7dbe-4855-9b9d-d0386a8ee255,"Shaped, cutted and welded steel FOR REINFORCED CONCRETE (Vicenza)",2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838900666806,18.22039583051,2.362400580914,0.278430794263,153.624276777266,n/a,n/a
+e912eeca-4060-4fe6-8cbb-f35b1272a0a0,CERAMIC TILES: slabs 3+ mm,2021-01-01,2026-01-01,12.4,n/a,n/a,n/a,0.0,0.181,0.0964,0.013,-0.137,n/a,n/a
+e942f558-6107-4281-b7a5-5e8b5930d2f9,VERNICI MASTERPAINT,2017-01-01,2024-01-01,9.38,n/a,n/a,n/a,,,,,,n/a,n/a
+ea377c84-08f8-413a-96ae-728ec55deb51,SUNSHADES: FRANGISOLE Z90,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,1.32e-08,0.000723,0.0191,-0.924,n/a,n/a
+ea4b9a6d-7dba-44c2-aa53-31a23992e0d9,Calcium sulphate panels for raised floor with various finishings: PG6AVW,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.274278232804,0.0,0.681307275639,-0.006742295664,n/a,n/a
+eadaaaca-a6ec-44e0-b739-2b3ba88a1211,"Prodotti in acciaio: rotoli trafilati, reti elettrosaldate, rotoli ribobinati",2020-01-01,2026-01-01,,n/a,n/a,n/a,38.2,24.4,1.98,0.732,292.0,n/a,n/a
+eb02551b-aef6-4b76-bba4-8b30541f9b28,PANNELLI PREFABBRICATI: pannello 30 Bastia Umbra,2020-01-01,2027-01-01,111.0,n/a,n/a,n/a,0.313,1.27,2.14,1.14,-9.55,n/a,n/a
+eb025cbe-7b99-4278-b6c8-2abb5f1e7a5f,Cemento di Caravate,2021-01-01,2027-01-01,272.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+eb08b38b-83db-4684-801e-a0299c828fcb,CERAMIC TILES - Sassuolo,2018-01-01,2024-01-01,17.9,n/a,n/a,n/a,,0.131,0.0644,0.174,-0.248,n/a,n/a
+eb454091-cfc4-4c75-8a05-4cd9361b3dbb,Leganti ,2016-01-01,2022-01-01,470.0,n/a,n/a,n/a,,,,,,n/a,n/a
+ebbb8e4c-8046-4971-a358-62003b76dbf3,ROLLER SHUTTERS ALUMINIUM: Arialuce,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,6.7e-08,-0.0243,0.204,-0.313,n/a,n/a
+ec1c6ad2-9a2d-4119-9909-887dac6e9168,Calcium sulphate panels for raised floor with various finishings: PG3AVP,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.264302927008,0.0,0.656528615008,-0.006742295667,n/a,n/a
+ecd15adb-d43d-46f7-ba1b-9a9dd5de97f7,Linear and special prefabricated concrete elements: 12 Trave T rovescia B50 H70,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437230731084,22.016062013348,33.541549865586,1.728711315395,-65.085467215133,n/a,n/a
+ecf3a5e3-63f4-4cca-9b4d-d05c707a3263,Pavimenti in legno Collezione Garbelotto SP09,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+ed638030-5301-484f-b489-066b4cb4db2d,Eurofire Adriaroof Rock A06-A05,2019-01-01,2026-01-01,45.4,n/a,n/a,n/a,,,,,,n/a,n/a
+ee371e6c-3f02-4f1c-b540-ea23ad6eb8bd,Isopar HP Adriawall HP L06-L06,2019-01-01,2026-01-01,0.000155,n/a,n/a,n/a,,,,,,n/a,n/a
+ee5f1c15-f5ad-42cb-afa3-d712770d3889,TELAIO IN ALLUMINIO PER PORTE DA INTERNO RM55 800x2100 mm,2018-01-01,2024-01-01,188.1,n/a,n/a,n/a,,,,,,n/a,n/a
+eea5de05-93f5-4e2a-969c-76c85565c7a5,STEEL BARS,2023-01-01,2028-01-01,,n/a,n/a,n/a,53.838901234487,17.824300231429,2.362400562482,0.278430797458,141.675720010586,n/a,n/a
+ef10d779-2e6c-4f45-9aef-0043965504b4,Porcelain stoneware ceramic tiles and slabs0037,2016-01-01,2023-01-01,14.5,n/a,n/a,n/a,,0.0549,0.0531,0.144,-0.241,n/a,n/a
+ef1aa3b8-0662-4ded-9538-9274578c57b3,"CEM IV A(P) 42,5 R-SR - Cemento pozzolanico resistente ai solfati EPD0149",2019-01-01,2026-01-01,728.0,n/a,n/a,n/a,,,,,,n/a,n/a
+ef3eb5bd-76d7-4fc4-ba62-dbea7b1fbeb0,Eurocinque Adriaroof A04-A04,2021-01-01,2026-01-01,33.9,n/a,n/a,n/a,,,,,,n/a,n/a
+ef4df14a-ec3f-4af2-9e80-4f68111cfe21,Rivestimento in Pietra Serena di Fiorenzuola con superficie naturale con bordi rifilati (spessore 2 cm),2017-01-01,2024-01-01,59.4,n/a,n/a,n/a,,,,,,n/a,n/a
+ef61b12b-5357-4c12-b693-8d6c69a3b460,Blackfire®,2019-01-01,2027-01-01,,n/a,n/a,n/a,0.207,0.547,9.0,1.19,-6.41,n/a,n/a
+efacc4a1-266b-4c14-a876-0df0038ae51f,BasalTop® 297ST,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.898386034533,1.837258687025,10.637282414915,6.069753812378,-10.431259955493,n/a,n/a
+f03b4f0c-18fc-4566-890b-454f49a237cf,"In Alpha section – PVC window 1,23m x 1,48m: Coloured PVC - Double Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.526742488,5.078434725,2.781138534,-11.37014501,n/a,n/a
+f0946cd0-f7c6-42b2-8cc8-cd65dc9d83e0,Calcium sulphate panels for raised floor with various finishings: PG3AMS,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.248530010353,0.0,0.617348681532,-0.006742295666,n/a,n/a
+f0c17e05-bfbc-498d-a62c-b25b3a190eb2,EUROBATEX® HF flat sheets in rolls,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.0,0.259118073837,0.0,6.797325406891,-1.011696041156,n/a,n/a
+f0c76fd5-944b-4371-a2ed-fbe11030d052,Ready-mixed concrete mixtures: Multibeton R37C4D31S4XC3/XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.650093,4.0191179,0.22627404,-8.6989751,n/a,n/a
+f0c89066-1573-4e4a-8745-a17f28ac0235,"CEM II A-LL 32,5 R - Cemento Portland al calcare EPD0097",2019-01-01,2026-01-01,39.0,n/a,n/a,n/a,,,,,,n/a,n/a
+f0fca4e3-0a16-4359-91bd-56750ec56597,Cemento di Caravate,2021-01-01,2027-01-01,303.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,13.8,n/a,n/a
+f14b46b4-789a-4bf9-9132-75c24efe0757,Aluminium profiles for doors and windows – series: SX110  SX11.130,2021-01-01,2026-01-01,7.0042,n/a,n/a,n/a,0.0,0.0256,0.0,0.0,-3.9406,n/a,n/a
+f1d705d9-9554-4fce-9b69-7e6e6ddc1b71,Polyisocyanurate Sandwich Panels (PIR) with Multilayer paper/aluminium coating: UNIKO.22 thickness 100 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.014967720127,2.000949371366,0.0,0.039267802308,0.0,n/a,n/a
+f1f375d2-d083-4289-9d2c-2b4ae2750dad,Pavimenti in legno Sistema Clip Up SP16,2019-01-01,2026-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+f25dcd59-8bc2-4a5a-baad-ea70041ff4d8,Metal ceilings: open cells STD50,2021-01-01,2026-01-01,,n/a,n/a,n/a,0.0,0.012424136164,2.295996406653,0.0,-19.958299186806,n/a,n/a
+f306060e-1f70-4c62-9711-e5cf08a1c9ae,Conglomerati bituminosi: Tout Venant Hard,2020-01-01,2027-01-01,41.4,n/a,n/a,n/a,0.24,6.84,0.0,1.68,-0.615,n/a,n/a
+f3d5dff2-186d-46a1-ba7b-c00be5d4d7a9,XYLOFON: HIGH-PERFORMANCE RESILIENT SOUNDPROOFING PROFILE (shore80),2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0832,0.203,5.77,0.33,-2.69,n/a,n/a
+f40ccc0f-1969-4325-9cf4-5dcc5491a72d,METRA WINDOWS SYSTEMS: NC90HES WX,2020-01-01,2027-01-01,,n/a,n/a,n/a,0.83,1.44,8.78,0.348,-37.7,n/a,n/a
+f449f4b2-271b-4688-85f0-fb6ee9115215,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 30 ECO Bagnatica,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0111,1.82,0.61,0.0,n/a,n/a
+f45d9e55-23a5-436d-8fc2-d3ef253d389e,"Portland, Blast Furnace and Pozzolanic cements: CEM IV/A (V) 42,5 R-SR",2022-01-01,2027-01-01,646.4,n/a,n/a,n/a,,,,,,n/a,n/a
+f4dcbeef-438f-4088-b04c-9c072eebe4b7,NC 75STH HES WS,2016-01-01,2023-01-01,159.0,n/a,n/a,n/a,,,5.69,0.268,-44.8,n/a,n/a
+f531f576-ecd5-4d10-988c-4bbc08421a91,Isopar HP Adriawall HP L06-A04,2019-01-01,2026-01-01,0.0562,n/a,n/a,n/a,,,,,,n/a,n/a
+f5aa3b57-0ee4-41f2-8246-79e178092fb0,CAST-IN ANCHOR CHANNEL SYSTEMS: HGP 50/30,2020-01-01,2026-01-01,9.55,n/a,n/a,n/a,,,0.0,0.0,-2.53,n/a,n/a
+f5c013c0-eb90-4641-a18e-11da9c025f44,Materiali inerti naturali: sabbia bianca deferrizzata sfusa,2020-01-01,2026-01-01,5.17,n/a,n/a,n/a,,,,,,n/a,n/a
+f5e4a8f9-e0f0-4144-a1b3-bf25d4923235,"Portland, Blast Furnace and Pozzolanic cements: CEM II/A-LL 32,5 R EXTRACEM",2022-01-01,2027-01-01,739.5,n/a,n/a,n/a,,,,,,n/a,n/a
+f682361e-771b-4691-90bc-fc840d5e23bb,Repair mortars: CALIBRO NHL,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,6.91,0.0,5.38,0.0,n/a,n/a
+f72634a5-59d1-463c-8605-cdf8b90fc4b6,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: DRYSTONE ECO Brembate,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.00891,1.82,0.489,0.0,n/a,n/a
+f83c5d42-637a-4184-9d42-f37e7bc742f8,Polyisocyanurate Sandwich Panels (PIR) with grooved aluminium coating: UNIKO.22 AL thickness 80 mm,2023-01-01,2028-01-01,,n/a,n/a,n/a,0.011681135716,1.561584614036,0.0,0.030645451251,0.0,n/a,n/a
+f8f99788-8d59-4bea-809d-a61f40bcf961,CLIMABLOCK CK16AI180,2018-01-01,2026-01-01,25.2315152,n/a,n/a,n/a,,,,,,n/a,n/a
+f94e8752-4e03-4436-973f-22ce2f3790b5,BasalTop® 440ST,2023-01-01,2028-01-01,,n/a,n/a,n/a,16.89838598989,2.810992584624,14.297286752291,11.80495613836,-15.672650124226,n/a,n/a
+faf121d5-fceb-4a0e-ba70-04fcc560260c,Cemento di Caravate,2021-01-01,2027-01-01,270.0,n/a,n/a,n/a,13.1,42.2,3.24,0.000428,-13.8,n/a,n/a
+fafb861b-671e-4612-9d2b-e8b0aa734ff8,Precast concrete segments for tunnel lining,2023-01-01,2025-01-01,,n/a,n/a,n/a,,,,,,n/a,n/a
+fafd995e-a14c-4495-b5c5-cb822bddc4e7,Polymer Bitumen Waterproofing Membranes: OPTIMA MINERALE GREEN ENERGY,2023-01-01,2028-01-01,3.313944755686,n/a,n/a,n/a,0.0,0.044053142352,0.044487521979,0.0,-0.192817968843,n/a,n/a
+fb021454-0bdd-4b8b-859e-dd57974b5096,READY-MIX CONCRETE produced by NUOVA DEMI and CAVA SURIANA: RCK 20 Bagnatica,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.69,0.0101,1.82,0.555,0.0,n/a,n/a
+fb6e0abe-5e9d-4c6a-bede-8e31b1580477,Ready-mixed concrete mixtures: Multibeton R30C4D31S4XC2/XC1,2023-01-01,2028-01-01,,n/a,n/a,n/a,8.9348662,11.6284,4.031398,0.22806584,-8.6902188,n/a,n/a
+fb9bd816-fdce-4f00-8a67-bfb7644cf3ba,Calcium sulphate panels for raised floor with various finishings: PG6AMH_K,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.252622444302,0.0,0.627514285893,-0.006742295666,n/a,n/a
+fba72d64-d568-463a-8105-ab1d39cbf33d,CERAMIC TILES - Fiorano Modenese,2018-01-01,2023-01-01,9.85,n/a,n/a,n/a,,0.0972,0.0478,0.129,-0.159,n/a,n/a
+fc4ffb8a-7390-4402-985f-d2e9f64b105c,"Air, wind and water barrier membranes and Vapor control layers: TRASPIR 110",2021-01-01,2026-01-01,,n/a,n/a,n/a,0.00125,0.00313,0.0643,0.00643,-0.057,n/a,n/a
+fc59bdcb-bfa0-4052-a02f-6ed709c5f021,Linear and special prefabricated concrete elements: 19 Pilastro 100x100,2023-01-01,2028-01-01,,n/a,n/a,n/a,15.437180001068,21.866267408732,33.227909152237,1.718622962575,-64.514420520731,n/a,n/a
+fc5e69c0-69f4-4abc-90e4-b4c6eb65fbd8,Rivestimento in Pietra Serena di Fiorenzuola con superficie sabbiata con bordi rifilati (spessore 5 cm),2017-01-01,2024-01-01,63.0,n/a,n/a,n/a,,,,,,n/a,n/a
+fcae07e7-32c9-4dcd-b1b8-352117ab13f9,NEWPLAN 70R prefinished roof element (transmittance U=0.91 W/m2K),2023-01-01,2028-01-01,,n/a,n/a,n/a,1.243700199963,5.342108568979,3.004112091967,0.319495132544,-22.659806110015,n/a,n/a
+fcc1e08a-44d0-4b6a-aa7d-b90a37f29e70,Blocchi per murature in laterizio SL 126 + alleggerente,2016-01-01,2024-01-01,0.209,n/a,n/a,n/a,,,,,,n/a,n/a
+fd0237ea-82d3-470c-9312-6189a8f0ea7b,Calcium sulphate panels for raised floor with various finishings: PG3AVL,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.0,0.284381425663,0.0,0.706403611406,-0.006742295668,n/a,n/a
+fd3d6ab7-05f2-48ae-9193-e6e2b07c215e,Cemento di Caravate,2020-01-01,2026-01-01,758.0,n/a,n/a,n/a,,,,,,n/a,n/a
+fd53c207-88f2-4398-9fd7-66eff162556b,ROLLER SHUTTERS ALUMINIUM: ASD55 Polla,2022-01-01,2027-01-01,,n/a,n/a,n/a,0.00909,6.6e-08,-0.0249,0.327,-0.233,n/a,n/a
+fd7ac4ec-eaa2-4b83-be99-a887b17d91ad,"INFILL PANELS: Thermal break panel (U=0.26 Wm2K) with washed finish, th. cm 30, L= cm 1200",2023-01-01,2028-01-01,,n/a,n/a,n/a,1.129257411136,4.603045753072,4.131580993908,4.328373975026,-14.536220849487,n/a,n/a
+fe63fac2-27f8-4871-a72d-53f22598ebe3,CLIMABLOCK CK16AI120,2018-01-01,2026-01-01,22.3310143,n/a,n/a,n/a,,,,,,n/a,n/a
+fed025b2-dbba-4cb9-8cf7-4710baeac723,CAST-IN ANCHOR CHANNEL SYSTEMS: GP 54/33,2020-01-01,2026-01-01,20.4,n/a,n/a,n/a,,,0.0,0.0,-4.55,n/a,n/a
+fed094df-c19b-4ef2-a08f-23278efb959e,"Cementi pozzolanici TENACEM 42,5 R",2018-01-01,2024-01-01,1040.0,n/a,n/a,n/a,,,,,,n/a,n/a
+ff0f4606-2b14-4efe-b05f-11e5b27270bf,"Prestigio section – PVC window 1,23m x 1,48m: Coloured PVC - Triple Glazing",2023-01-01,2028-01-01,,n/a,n/a,n/a,0.003686541,0.635507775,5.730567131,3.033880579,-12.4541063,n/a,n/a
+ff5bb6eb-dac5-4045-8891-92225e4f3d21,LIGHTWEIGHT EXPANDED CLAY AGGREGATE,2016-01-01,2023-01-01,54.4,n/a,n/a,n/a,,,,,,n/a,n/a
