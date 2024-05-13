@@ -2,6 +2,7 @@ datetime
 folium
 geojson
 geopandas
+geopy
 leafmap
 plotly
 pydeck
