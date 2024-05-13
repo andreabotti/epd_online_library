@@ -141,17 +141,15 @@ else:
 
 
 
-# Filter the second DataFrame based on the selected Registration Number
-# Display the map
-df = df_plot[df_plot['reg_number'] == selected_reg_number]
+    df = sel_df_plot
 
-# Geocode the address
-geolocator = Nominatim(user_agent="streamlit_app")
-address = df.iloc[0]['production_unit']
-location = geolocator.geocode(address)
+    # Geocode the address
+    geolocator = Nominatim(user_agent="streamlit_app")
+    address = df.iloc[0]['production_unit']
+    location = geolocator.geocode(address)
 
-if location:
-    col_02.write(f"Geocoded location for address '{address}':")
-    col_02.map(pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]}))
-else:
-    col_02.write(f"Address '{address}' could not be geocoded.")
+    if location:
+        col_02.write(f"Geocoded location for address '{address}':")
+        col_02.map(pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]}))
+    else:
+        col_02.write(f"Address '{address}' could not be geocoded.")
