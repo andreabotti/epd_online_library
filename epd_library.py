@@ -104,8 +104,8 @@ with col_01:
     # Get selected rows
     selected_rows = grid_response['selected_rows']
 
-# Check if any row is selected
-if selected_rows:
+# Ensure that selected_rows is not empty and check its length
+if selected_rows and len(selected_rows) > 0:
     selected_reg_number = selected_rows[0]['reg_number']
     
     # Filter the second DataFrame based on the selected Registration Number
@@ -136,8 +136,17 @@ if selected_rows:
         sel_df_plot.transpose().to_html(escape=False, index=True),
         unsafe_allow_html=True,
     )
-
-
 else:
     col_02.write("Select a row to see details.")
+
+
+# Display the map
+df = sel_df_plot
+address = df.loc[0, 'production_unit']
+latitude, longitude = df.loc[0, 'Latitude'], df.loc[0, 'Longitude']
+
+if latitude and longitude:
+    st.map(pd.DataFrame({'lat': [latitude], 'lon': [longitude]}))
+else:
+    st.write("Address could not be geocoded.")
 
