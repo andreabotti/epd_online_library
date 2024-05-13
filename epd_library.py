@@ -3,7 +3,7 @@
 
 import os, streamlit as st, pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
-
+from geopy.geocoders import Nominatim
 
 
 
@@ -140,13 +140,18 @@ else:
     col_02.write("Select a row to see details.")
 
 
+
+# Filter the second DataFrame based on the selected Registration Number
 # Display the map
-df = sel_df_plot
-address = df.loc[0, 'production_unit']
-latitude, longitude = df.loc[0, 'Latitude'], df.loc[0, 'Longitude']
+df = df_plot[df_plot['reg_number'] == selected_reg_number]
 
-if latitude and longitude:
-    st.map(pd.DataFrame({'lat': [latitude], 'lon': [longitude]}))
+# Geocode the address
+geolocator = Nominatim(user_agent="streamlit_app")
+address = df.iloc[0]['production_unit']
+location = geolocator.geocode(address)
+
+if location:
+    col_02.write(f"Geocoded location for address '{address}':")
+    col_02.map(pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]}))
 else:
-    st.write("Address could not be geocoded.")
-
+    col_02.write(f"Address '{address}' could not be geocoded.")
