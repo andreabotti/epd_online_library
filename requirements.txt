@@ -6,5 +6,5 @@ leafmap
 plotly
 pydeck
 seaborn
-st_aggrid
 streamlit
+streamlit-aggrid
