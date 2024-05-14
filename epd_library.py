@@ -192,8 +192,8 @@ table_plot = product_type_counts.reset_index()
 
 fig = px.bar(
     table_plot,
-    x='product_type', y='index', orientation='h',
-    labels={'index': 'Type', 'product_type': 'Count'},
+    x='product_type', y='count', orientation='h',
+    # labels={'index': 'Type', 'product_type': 'Count'},
     title="Product Type Distribution",
     height=600,
     )
