@@ -51,7 +51,7 @@ def load_data():
 
 #####
 
-col_01, col_02 = st.columns([3,2])
+col_chart, spacing, col_table, spacing, col_details = st.columns([12,1,30,1,16])
 
 # Load data
 df = load_data()
@@ -79,26 +79,46 @@ df.drop(
 
 
 
-with col_01:
+with col_table:
 
     # Configure AgGrid options
     gb = GridOptionsBuilder.from_dataframe(df)
-    gb.configure_pagination(paginationAutoPageSize=True)  # Add pagination
+    gb.configure_pagination(paginationAutoPageSize=False, paginationPageSize=1000)  # Add pagination    
     gb.configure_side_bar()  # Add a sidebar
     gb.configure_selection(
         selection_mode="single",
         use_checkbox=False,
         )  # Enable single row selection
 
+    # Set default column properties
+    gb.configure_default_column(minWidth=100, resizable=True, wrapText=True)
+
+    # Example: Set specific column widths
+    gb.configure_column("product_name", width=300)
+    gb.configure_column("manufacturer", width=250)
+    gb.configure_column("product_type", width=175)
+    gb.configure_column("epd_issue_date",   width=135)
+    gb.configure_column("epd_expiry_date",  width=135)
+    gb.configure_column("reg_number",       width=135)
+
+
+
+    # Set table height
     grid_options = gb.build()
+    grid_options['domLayout'] = 'normal'  # Allow custom layout
+    grid_options['rowHeight'] = 30  # Adjust row height
+    grid_options['minHeight'] = 400  # Minimum height of the grid
+    grid_options['maxHeight'] = 550  # Maximum height of the grid
+
 
     # Display the DataFrame using AgGrid
     grid_response = AgGrid(
         df,
         gridOptions=grid_options,
+        height=600,
         update_mode=GridUpdateMode.SELECTION_CHANGED,
         allow_unsafe_jscode=True,  # Allowing HTML in AgGrid
-        # theme='STREAMLIT',
+        theme='streamlit',
     )
 
     # Get selected rows
@@ -131,25 +151,69 @@ if selected_rows and len(selected_rows) > 0:
         'reg_number', 'epd_issue_date', 'epd_expiry_date',
     ]]
 
-    col_02.markdown('##### Data for...')
-    col_02.markdown(
-        sel_df_plot.transpose().to_html(escape=False, index=True),
+    df_display = sel_df_plot.transpose()
+    # col_details.markdown('##### Data for...')
+    col_details.markdown(
+        df_display.to_html(escape=False, index=True),
         unsafe_allow_html=True,
     )
-else:
-    col_02.write("Select a row to see details.")
 
 
+    col_details.divider()
 
-    df = sel_df_plot
+    df_map = sel_df_plot
 
     # Geocode the address
     geolocator = Nominatim(user_agent="streamlit_app")
-    address = df.iloc[0]['production_unit']
+    address = df_map.iloc[0]['production_unit']
     location = geolocator.geocode(address)
 
     if location:
-        col_02.write(f"Geocoded location for address '{address}':")
-        col_02.map(pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]}))
+        col_details.write(f"Geocoded location for address '{address}':")
+        col_details.map(
+            pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]})
+            )
     else:
-        col_02.write(f"Address '{address}' could not be geocoded.")
+        col_details.write(f"Address '{address}' could not be geocoded.")#
+
+
+
+else:
+    col_details.write("Select a row to see details.")
+
+
+
+# Calculate the count of each product type
+product_type_counts = df['product_type'].value_counts()
+
+# Display the DataFrame to show the data that will be used in the chart
+# st.write("Data used for chart:")
+# st.dataframe(product_type_counts.reset_index().rename(columns={'index': 'Product Type', 'Type': 'Count'}))
+
+# Create a bar chart
+# st.bar_chart(product_type_counts)
+
+# Optionally, to use plotly for a more interactive chart:
+import plotly.express as px
+
+table_plot = product_type_counts.reset_index()
+# st.dataframe(table_plot)
+
+fig = px.bar(
+    table_plot,
+    x='product_type', y='index', orientation='h',
+    labels={'index': 'Type', 'product_type': 'Count'},
+    title="Product Type Distribution",
+    height=600,
+    )
+# Update layout for finer control (optional)
+fig.update_layout(
+    title_text='Product Type Distribution',  # Adding a custom title
+    title_x=0.3,  # Centering the title
+    yaxis_title='',  # Labeling the Y-axis
+    xaxis_title='COUNT',  # Labeling the X-axis
+    template='plotly_white',  # Choosing a visual template
+    margin=dict(l=0, r=0, t=40, b=0),  # Setting custom margins (left, right, top, bottom)
+)
+
+col_chart.plotly_chart(fig, use_container_width=True)
