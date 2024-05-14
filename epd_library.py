@@ -101,7 +101,6 @@ with col_table:
     gb.configure_column("reg_number",       width=135)
 
 
-
     # Set table height
     grid_options = gb.build()
     grid_options['domLayout'] = 'normal'  # Allow custom layout
@@ -125,7 +124,7 @@ with col_table:
 
 # Ensure that selected_rows is not empty and check its length
 # if not selected_rows.empty and len(selected_rows) > 0:
-if len(selected_rows) > 0:
+try:
     selected_reg_number = selected_rows[0]['reg_number']
     
     # Filter the second DataFrame based on the selected Registration Number
@@ -174,7 +173,7 @@ if len(selected_rows) > 0:
 
 
 
-else:
+except:
     col_details.write("Select a row to see details.")
 
 
