@@ -1,10 +1,9 @@
 # IMPORT LIBRARIES
 # from fn__libraries import *
-
 import os, streamlit as st, pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 from geopy.geocoders import Nominatim
-
+import plotly.express as px
 
 
 
@@ -125,20 +124,17 @@ with col_table:
     selected_rows = grid_response['selected_rows']
 
 # Ensure that selected_rows is not empty and check its length
-if selected_rows and len(selected_rows) > 0:
+# if not selected_rows.empty and len(selected_rows) > 0:
+if len(selected_rows) > 0:
     selected_reg_number = selected_rows[0]['reg_number']
     
     # Filter the second DataFrame based on the selected Registration Number
     sel_df_plot = df_plot[df_plot['reg_number'] == selected_reg_number]
 
-
-    sel_df_plot.drop(
-        ['image',
+    sel_df_plot = sel_df_plot.drop(
+        ['image', 'additional_info', 'CPC_code', 'epd_update_date', 'ref_year', 'cat',
         #  'product_description', 'production_unit',
-         'additional_info', 'CPC_code',
-        'epd_update_date', 'ref_year', 'cat',
-        ],
-        axis=1, inplace=True)
+        ], axis=1)
 
     sel_df_plot = sel_df_plot[[
         'manufacturer',
@@ -183,21 +179,17 @@ else:
 
 
 
+
+
+
 # Calculate the count of each product type
 product_type_counts = df['product_type'].value_counts()
+table_plot = product_type_counts.reset_index()
 
 # Display the DataFrame to show the data that will be used in the chart
-# st.write("Data used for chart:")
 # st.dataframe(product_type_counts.reset_index().rename(columns={'index': 'Product Type', 'Type': 'Count'}))
-
-# Create a bar chart
-# st.bar_chart(product_type_counts)
-
-# Optionally, to use plotly for a more interactive chart:
-import plotly.express as px
-
-table_plot = product_type_counts.reset_index()
 # st.dataframe(table_plot)
+
 
 fig = px.bar(
     table_plot,
