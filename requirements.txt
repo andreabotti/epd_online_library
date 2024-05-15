@@ -5,6 +5,7 @@ geopandas
 geopy
 leafmap
 plotly
+plotly.express
 pydeck
 seaborn
 streamlit
