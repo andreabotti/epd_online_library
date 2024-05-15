@@ -4,7 +4,7 @@ import os, streamlit as st, pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 from geopy.geocoders import Nominatim
 import plotly.express as px
-
+import plotly.graph_objects as go
 
 
 
@@ -65,10 +65,11 @@ table_slim.drop(
     ], inplace=True, axis=1,
     )
 table_slim = table_slim[[
+    'reg_number',
     'manufacturer',
     'product_name',
     'product_type',
-    'reg_number', 'epd_issue_date', 'epd_expiry_date',
+    'epd_issue_date', 'epd_expiry_date',
 ]]
 
 
@@ -95,20 +96,26 @@ table['pdf_url'] = table.apply(
 # Calculate the count of each product type
 product_type_counts = df0['product_type'].value_counts()
 table_plot = product_type_counts.reset_index()
+table_plot.columns = ['type','count']
 
 
-fig = px.bar(
-    table_plot,
-    x='product_type', y='index', orientation='h',
-    # labels={'index': 'Type', 'product_type': 'Count'},
-    title="Product Type Distribution",
-    height=600,
-    )
+# Create the bar chart using Plotly graph objects
+fig = go.Figure(go.Bar(
+    x=table_plot['count'],  # Counts of each type
+    y=table_plot['type'],  # Product type labels
+    orientation='h'  # Horizontal bar chart
+))
+
 # Update layout for finer control (optional)
 fig.update_layout(
     title_text='Product Type Distribution',  # Adding a custom title
     title_x=0.3,  # Centering the title
-    yaxis_title='',  # Labeling the Y-axis
+    height=650,
+    yaxis=dict(
+        title='',  # Hiding the Y-axis title (or set your title here)
+        ticktext=table_plot['type'],  # Set custom text for each tick based on 'Type' column
+        # tickvals=table_plot['type']  # Map tick texts to the correct values on the Y-axis
+    ),
     xaxis_title='COUNT',  # Labeling the X-axis
     template='plotly_white',  # Choosing a visual template
     margin=dict(l=0, r=0, t=40, b=0),  # Setting custom margins (left, right, top, bottom)
@@ -157,13 +164,13 @@ with col_table:
     grid_options['domLayout'] = 'normal'  # Allow custom layout
     grid_options['rowHeight'] = 25  # Adjust row height
     grid_options['minHeight'] = 300  # Minimum height of the grid
-    grid_options['maxHeight'] = 550  # Maximum height of the grid
+    grid_options['maxHeight'] = 650  # Maximum height of the grid
 
     # Display the DataFrame using AgGrid
     grid_response = AgGrid(
         table_slim,
+        height=700,
         gridOptions=grid_options,
-        height=600,
         update_mode=GridUpdateMode.SELECTION_CHANGED,
         allow_unsafe_jscode=True,  # Allowing HTML in AgGrid
         theme='streamlit',
@@ -181,6 +188,7 @@ except:
     selected_reg_number = 'EPDITALY0003'
 
 
+
 # Filter the second DataFrame based on the selected Registration Number
 filtered_table = table[table['reg_number'] == selected_reg_number]
 
@@ -188,7 +196,6 @@ filtered_table = filtered_table.drop(
     ['image', 'additional_info', 'CPC_code', 'epd_update_date', 'ref_year', 'cat',
     #  'product_description', 'production_unit',
     ], axis=1)
-
 filtered_table = filtered_table[[
     'manufacturer',
     'product_name',
@@ -200,30 +207,45 @@ filtered_table = filtered_table[[
     'reg_number', 'epd_issue_date', 'epd_expiry_date',
 ]]
 
-df_display = filtered_table.transpose()
-col_details.markdown(f'##### {selected_reg_number}')
-col_details.write(
-    df_display.to_html(escape=False, index=True, header=False),
-    unsafe_allow_html=True,
-)
-
-
-col_details.divider()
-df_map = filtered_table
-
-# Geocode the address
-geolocator = Nominatim(user_agent="streamlit_app")
-address = df_map.iloc[0]['production_unit']
-location = geolocator.geocode(address)
-
-if location:
-    col_details.write(f"Geocoded location for address '{address}':")
-    col_details.map(
-        pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]})
-        )
-else:
-    col_details.write(f"Address '{address}' could not be geocoded.")#
+df_display = filtered_table.drop(['product_description'],axis=1).transpose()
 
 
 
+# Define the tab names
+tab1, tab2, tab3 = col_details.tabs(['Product Details', 'Product Description', 'Map View'])
+
+with tab1:
+    st.markdown(f'##### {selected_reg_number}')
+
+
+    # Display the styled HTML in Streamlit
+    html = df_display.to_html(escape=False, index=True, header=False)
+    styled_html = html
+    styled_html = f'<div style="font-size: 14px;">{html}</div>'.replace('\n','')
+    st.markdown(styled_html, unsafe_allow_html=True)
+
+
+with tab2:
+    product_description = filtered_table.iloc[0]['product_description']
+    styled_html = f'<div style="font-size: 14px;">{product_description}</div>'.replace('\n','')
+    st.markdown(styled_html, unsafe_allow_html=True)
+
+
+# with tab3:
+#     st.markdown('##### Map Production')
+
+#     df_map = filtered_table
+
+#     # Geocode the address
+#     geolocator = Nominatim(user_agent="streamlit_app")
+#     address = df_map.iloc[0]['production_unit']
+#     location = geolocator.geocode(address)
+
+#     if location:
+#         st.write(f"Geocoded location for address '{address}':")
+#         st.map(
+#             pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]})
+#             )
+#     else:
+#         st.write(f"Address '{address}' could not be geocoded.")#
 
