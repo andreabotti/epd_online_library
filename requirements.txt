@@ -10,4 +10,4 @@ pydeck
 seaborn
 streamlit
 streamlit-aggrid
-streamlit_super_slider
+streamlit-super-slider
