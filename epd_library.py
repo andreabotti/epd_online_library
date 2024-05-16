@@ -1,6 +1,6 @@
 # IMPORT LIBRARIES
-# from fn__libraries import *
-import os, streamlit as st, pandas as pd
+from fn__libraries import *
+import os, json, streamlit as st, pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 from geopy.geocoders import Nominatim
 import plotly.express as px
@@ -131,55 +131,28 @@ col_chart.plotly_chart(fig, use_container_width=True)
 
 
 
+# Create a dictionary to hold DataFrames sliced by 'product_type'
+dfs = {}
+df = table_slim
+
+# Loop through each unique value in the 'product_type' column
+product_types = df['product_type'].unique().tolist()
+product_types = sorted([str(item) for item in product_types])
+
+
+for product_type in product_types:
+    dfs[product_type] = df[df['product_type'] == product_type]
+
+
+
 
 
 with col_table:
+    selected_type = st.selectbox(label='Product Type', options=product_types)
+    filtered_table = table_slim[table_slim.product_type==selected_type]
+    grid_response = ab_create_AgGrid(df=filtered_table)
 
-    # Configure AgGrid options
-    gb = GridOptionsBuilder.from_dataframe(table_slim)
-    gb.configure_pagination(paginationAutoPageSize=False, paginationPageSize=100)  # Add pagination    
-    gb.configure_side_bar()  # Add a sidebar
-    gb.configure_selection(
-        selection_mode="single",
-        use_checkbox=False,
-        )  # Enable single row selection
-
-    # Set default column properties
-    gb.configure_default_column(
-        # minWidth=100,
-        resizable=True,
-        wrapText=True,
-        )
-
-    # Example: Set specific column widths
-    # gb.configure_column("manufacturer", width=60)
-    # gb.configure_column("product_name", width=120)
-    gb.configure_column("product_type", width=175)
-    # gb.configure_column("epd_issue_date",   width=135)
-    # gb.configure_column("epd_expiry_date",  width=135)
-    # gb.configure_column("reg_number",       width=135)
-
-    # Set table height
-    grid_options = gb.build()
-    grid_options['domLayout'] = 'normal'  # Allow custom layout
-    grid_options['rowHeight'] = 25  # Adjust row height
-    grid_options['minHeight'] = 300  # Minimum height of the grid
-    grid_options['maxHeight'] = 650  # Maximum height of the grid
-
-    # Display the DataFrame using AgGrid
-    grid_response = AgGrid(
-        table_slim,
-        height=700,
-        gridOptions=grid_options,
-        update_mode=GridUpdateMode.SELECTION_CHANGED,
-        allow_unsafe_jscode=True,  # Allowing HTML in AgGrid
-        theme='streamlit',
-    )
-
-    # Get selected rows
     selected_rows = grid_response['selected_rows']
-
-
 
 
 try:
@@ -211,41 +184,75 @@ df_display = filtered_table.drop(['product_description'],axis=1).transpose()
 
 
 
+
+col_details.markdown(f'##### {selected_reg_number}')
+
 # Define the tab names
-tab1, tab2, tab3 = col_details.tabs(['Product Details', 'Product Description', 'Map View'])
+tab1, tab2, tab3 = col_details.tabs(['Product Details', 'Product Description', 'PDF Preview'])
 
 with tab1:
-    st.markdown(f'##### {selected_reg_number}')
-
 
     # Display the styled HTML in Streamlit
     html = df_display.to_html(escape=False, index=True, header=False)
     styled_html = html
-    styled_html = f'<div style="font-size: 14px;">{html}</div>'.replace('\n','')
+    styled_html = f'<div style="font-size: 14px;">{html}</div>'.replace('/n','')
     st.markdown(styled_html, unsafe_allow_html=True)
 
 
 with tab2:
     product_description = filtered_table.iloc[0]['product_description']
-    styled_html = f'<div style="font-size: 14px;">{product_description}</div>'.replace('\n','')
+    styled_html = f'<div style="font-size: 14px;">{product_description}</div>'.replace('/n','')
     st.markdown(styled_html, unsafe_allow_html=True)
 
 
-# with tab3:
-#     st.markdown('##### Map Production')
 
-#     df_map = filtered_table
 
-#     # Geocode the address
-#     geolocator = Nominatim(user_agent="streamlit_app")
-#     address = df_map.iloc[0]['production_unit']
-#     location = geolocator.geocode(address)
+#####
 
-#     if location:
-#         st.write(f"Geocoded location for address '{address}':")
-#         st.map(
-#             pd.DataFrame({'lat': [location.latitude], 'lon': [location.longitude]})
-#             )
-#     else:
-#         st.write(f"Address '{address}' could not be geocoded.")#
 
+
+with tab3:
+
+    folder_url = 'https://absrd.xyz/streamlit_apps/epd_online_library/epd_pdfs/'
+
+    # Loading the dictionary back from the json file
+    json_file_path = 'file_dict.json'
+    with open(json_file_path, 'r') as f:
+        loaded_dict = json.load(f)
+
+    file_path = get_value_from_dict(dictionary=loaded_dict, key=selected_reg_number)
+    file_name = file_path[0].rsplit('\\',1)[1]
+    file_url = folder_url + file_name 
+
+
+    # Add a button that the user can click to show or hide the PDF
+    if 'show_pdf' not in st.session_state:
+        st.session_state.show_pdf = False  # Default the PDF to not show
+
+    toggle_button = st.button('Show/Hide PDF')
+
+    if toggle_button:
+        st.session_state.show_pdf = not st.session_state.show_pdf
+
+    if st.session_state.show_pdf:
+
+        # Embed PDF in an iframe within Streamlit
+        width = '440'
+        height = '425'
+        scale = '0.15'  # Adjust scale as per requirement
+
+        st.markdown(
+            f'''
+            <style>
+                iframe {{
+                    width: {width}px;
+                    height: {height}px;
+                    border: none;  # Removes the border around the iframe
+                    transform: scale({scale});
+                    transform-origin: top left;  # Ensures the zoom is from top left
+                }}
+            </style>
+            <iframe src="{file_url}#toolbar=1" width="{width}" height="{height}" type="application/pdf"></iframe>
+            ''',
+            unsafe_allow_html=True
+        )
